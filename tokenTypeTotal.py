@@ -62,10 +62,17 @@ for fi in fileToRead:
 
 	f.close()
 
-print(typeNum)
-print(tokenNum)
+#print(typeNum)
+#print(tokenNum)
+print(tokenNum/typeNum)
+
 
 sorted_words = sorted(words.items(), key=operator.itemgetter(1))
 
-for word in sorted_words:
-	print(word)
+# for word in sorted_words:
+# 	print(word)
+
+
+
+
+

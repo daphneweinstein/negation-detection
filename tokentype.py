@@ -40,8 +40,9 @@ def getTypeTok(f):
 					words[token] = 1
 				tokenNum = tokenNum + 1
 
-	print(typeNum)
-	print(tokenNum)
+	#print(typeNum)
+	#print(tokenNum)
+	print(tokenNum/typeNum)
 
 	#sorted_words = sorted(words.items(), key=operator.itemgetter(1))
 	#print(sorted_words)
