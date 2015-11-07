@@ -1,0 +1,1094 @@
+<?xml version='1.0' encoding='ISO8859-1'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/media/Data/Extracting_GreyLit/Extraction_Development/OPTIMA_Complete/documents/evaluationCorpus/birmingh2-28160_1.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Project No. 1485
+March 2007.
+LONGDALES ROAD, KINGS NORTON, BIRMINGHAM
+2006 EXCAVATIONS
+By Bob Burrows
+With contributions by Jane Evans and Val Fryer
+For further information please contact:
+Birmingham Archaeology
+The University of Birmingham
+Edgbaston
+Birmingham B15 2TT
+Tel: 0121 414 5513
+Fax: 0121 414 5516
+E-Mail: bham-arch@bham.ac.uk
+Web Address: http://www barch.bham.ac.uk/bufau
+Longdales Road Archaeological Excavation 2006
+LONGDALES ROAD, KINGS NORTON, BIRMINGHAM
+ARCHAEOLOGICAL EXCAVATION 2006
+POST-EXCAVATION ASSESSMENT
+CONTENTS
+1 INTRODUCTION ........................................................................................... 1
+1.1 BACKGROUND TO THE PROJECT ........................................................................ 1
+1.2 AIMS ...................................................................................................... 3
+2 METHODOLOGY............................................................................................ 3
+3 RESULTS ...................................................................................................... 4
+3.1 PHASING ................................................................................................. 4
+3.2 PHASE 1.................................................................................................. 4
+Plot A........................................................................................................... 4
+Plot B........................................................................................................... 5
+Plot C........................................................................................................... 7
+Plot D .......................................................................................................... 8
+Dating evidence............................................................................................. 8
+3.3 PHASE 2.................................................................................................. 9
+Dating evidence........................................................................................... 10
+4 ASSESSMENT ............................................................................................. 10
+4.1 QUANTIFICATIONS..................................................................................... 10
+4.2 SMALL FINDS........................................................................................... 11
+4.3 POTTERY BY JANE EVANS ............................................................................. 11
+Dating........................................................................................................ 13
+Sources...................................................................................................... 14
+Recommendations ....................................................................................... 14
+4.4 CHARRED PLANT REMAINS BY VAL FRYER ........................................................... 14
+Introduction and method statement ............................................................... 14
+Results....................................................................................................... 14
+Conclusions and recommendations for further work .......................................... 15
+KEY TO TABLES .................................................................................................. 17
+5 UPDATED PROJECT DESIGN ....................................................................... 17
+5.1 GENERAL ............................................................................................... 17
+Chronology ................................................................................................. 17
+Site function and morphology: changes .......................................................... 18
+Site economy and function............................................................................ 19
+Site function and status................................................................................ 19
+Roman, and post-Roman landscape archaeology .............................................. 20
+5.2 LIST OF UPDATED AIMS ............................................................................... 20
+6 PUBLICATION SYNOPSIS ........................................................................... 20
+Text........................................................................................................... 21
+Figures....................................................................................................... 21
+8 TASK LIST ............................................................................................... 22
+Birmingham Archaeology i
+Longdales Road Archaeological Excavation 2006
+7 ACKNOWLEDGEMENTS ............................................................................... 23
+8 REFERENCES .............................................................................................. 23
+Figures
+1 Location of site within Birmingham
+2 Longdales Road, areas excavated in 2002 (grey), 2003 (blue), 2004 (red) and
+2006 (green)
+3 Areas excavated in 2006, simplified plan
+4 Ordnance Survey map of 1890, with areas excavated superimposed
+Tables
+1 Archive quantification
+2 Finds quantification
+3 Pottery, summary by context
+4 Charred plant remains, assessment results
+5 Charred plant remains, contexts assessed
+Birmingham Archaeology ii
+Longdales Road Archaeological Excavation 2006
+SUMMARY
+The third in a series of archaeological excavations was undertaken at Longdales Road,
+Kings Norton, Birmingham (centred on NGR. SP 05337761), in August-September 2006.
+This report describes the results of the most recent fieldwork and provides proposals to
+being the results to publication. The fieldwork was undertaken by Birmingham
+Archaeology on instruction from Birmingham City Council, and was undertaken in
+advance of a cemetery development. The excavation followed an initial archaeological
+evaluation in 2002 which identified remains of possible field boundaries and a pebble
+surface adjoining Icknield Street. Earlier archaeological excavation elsewhere within the
+cemetery development excavated a triple ditched enclosure, probably used for the
+corralling of livestock. A second focus of activity was located by excavation in 2003-4,
+also to the rear of the Icknield Street frontage, comprising ditched enclosure boundaries,
+cobbled surfaces, pits and post-holes. The pottery dating indicates that the site was in
+use from the 2nd to the early 4th century.
+Two areas were excavated in 2006, one immediately adjoining the Icknield Street road
+frontage. The earliest activity probably comprised the layout of ditched plot boundaries at
+right-angles to the Roman road. The full width of three plots (A-C), and part of a fourth
+plot (D) were recorded within the area investigated. The plot boundaries were further
+defined by metalled roads adjoining the ditched boundaries. The excavated part of the
+Plot A road frontage comprised a metalled surface, possibly used as a hardstanding for
+storage, which was not continued along the frontage area of the other excavated plots to
+the north. Plot B contained a rectangular ditched enclosure within which was sited part of
+ring-gully. Plot C also contained a ring-gully, which may have been in use in late Phase
+1-early Phase 2. Phase 2 activity was in general more limited. The main Phase 2 feature
+was the northeastern angle of a ditched enclosure, cut through the two Phase 1 road
+surfaces in Plot A. This enclosure was associated with an east-west aligned ditch. Further
+to the north the only Phase 2 feature was a large pit. With the exception of the Phase 1
+Plot B enclosure, activity was concentrated away from the road frontage, most notably in
+Phase 2.
+The pottery from Phase 1 contexts was dated mainly in the second half of the 2nd-3rd
+century. This material included Severn Valley ware jars and bowls, a Malvernian tubby
+cooking pot, and Black Burnished ware. Phase 2 activity was dated to the late 3rd-4th
+century. It included Severn Valley jars and tankards, and mortaria from Oxfordshire and
+Mancetter Hartshill.
+Birmingham Archaeology iii
+Longdales Road: Archaeological Evaluation 2005
+LONGDALES ROAD, KINGS NORTON, BIRMINGHAM
+ARCHAEOLOGICAL EXCAVATION 2006
+POST-EXCAVATION ASSESSMENT
+1 INTRODUCTION
+1.1 Background to the project
+This report describes the results of a third archaeological excavation at Longdales Road,
+Kings Norton, Birmingham, undertaken during August-September 2006 (centred on NGR.
+SP 05337761; Area B, Fig. 1). Birmingham Archaeology was commissioned to undertake
+the archaeological excavation by Birmingham City Council, which was undertaken in
+accordance with the guidelines laid down in Planning Policy Guidance Note 16 (PPG16,
+Department of the Environment, November 1990). The archaeological fieldwork was
+undertaken in advance of proposals for a cemetery extension. This report provides a
+post-excavation assessment of the results of the 2006 fieldwork, prepared in accordance
+with the Management of Archaeology Projects 2 (MAP 2 - English Heritage). The fieldwork
+was undertaken in accordance with a Design Brief prepared by the Council (Birmingham
+CC 2006), and a Written Scheme of Investigation prepared by Birmingham Archaeology
+(Birmingham Archaeology 2006), approved by the Planning Archaeologist, Birmingham
+City Council, and following the requirements of the Council's Archaeology Strategy,
+adopted as Supplementary Planning Guidance.
+The site (Fig. 2) of the proposed cemetery is bounded by Longdales Road, Icknield Street
+and Primrose Hill. The land is currently overgrown pasture, with the exception of those
+areas presently laid out as a cemetery.
+The proposed development site is bounded by Icknield Street to the east, which follows
+the line of a Roman road. Just outside the site boundary is Lilycroft Farm, thought to be
+of medieval origin and mentioned in a document of 13th century date. The farm is a
+Grade II listed building, including fabric of late 17th and early 18th century date. Early
+stages of work comprised a desk-based assessment, walkover survey, and trial-trenching
+carried out by Worcestershire County Council Archaeological Service (Vaughan 2002) in
+March 2002. The trial trenching involved machine-cut trenches in Fields 1-2 and 4, which
+revealed ditches, shallow gullies and some pits/post holes. These features were
+interpreted as a forming a Romano-British settlement focus, consisting of an enclosure
+complex to the west of Lilycroft Farm, with an associated ditched field system to the
+north.
+Birmingham Archaeology 1
+Longdales Road: Archaeological Evaluation 2005
+Preliminary fieldwork by Birmingham Archaeology in 2002 (Williams 2003a) included
+further trial trenching in Field 1, close to Icknield Street, to determine the extent of
+activity in this roadside zone, revealing ditches, pits and cobbled surfaces. Following
+further trial trenching in Field 1, an excavation (Area A) was undertaken in the southwest
+of the proposed cemetery site, to investigate a Romano-British enclosure complex which
+was occupied from the 2nd to the 4th century AD. The sequence of Romano-British
+activity was divided into three phases. The earliest activity (Phase 1) consisted of three
+small ditches and a series of pits, largely concentrated in the south of the area
+excavated. Phase 2 comprised the majority of the features, including the outermost two
+enclosure ditches, as well as a ring gully and areas of stone surfacing. The latest
+Romano-British activity was formed by an inner enclosure ditch and an internal,
+rectangular stock enclosure, cut in Phase 3, possibly during a reduction in site activity.
+The trial-trenching and Area A excavation results are described in a post-excavation
+assessment (Williams 2003a), and the associated detailed specialist reports, site
+narrative and illustrations have been prepared(Williams Evans and Burrows forthcoming).
+The 2003 excavation (Area B), located to the west of the area investigated in 2006
+revealed the remains of a Romano-British settlement dating from the 2nd-4th century
+AD, represented by three phases of activity (Williams 2003b). The earliest phase of
+activity (Phase 1) consisted of a single enclosure ditch or field boundary, with smaller
+ditches and gullies dug outside the enclosed area. In Phase 2 two possible enclosure
+ditches were cut in the north of the area investigated; a further ditch, gully and pit were
+also contemporary. Also belonging to this phase were a number of structural remains,
+including beam-slots, cobbled surfaces, a ring gully and four post pads, possibly
+representing the remains of a large timber building with associated cobbled surfaces. One
+of the cobbled surfaces was covered in an ashy deposit containing the charred remains of
+spelt and glume, indicating the possibility of malting and beer production. The latest
+Romano-British phase (Phase 3) was represented by two ditches and a large pit. Little
+evidence of post-Romano-British activity (Phase 4) was recorded.
+A watching brief was maintained in 2004 during groundworks associated with the
+construction of the main cemetery roads, and associated drainage works (Mason 2004)
+within Fields 1, 2 and 4. A number of ditched plot boundaries were identified, together
+with post-holes and a ring-gully in the west of Field 1 (Mason 2004, fig. 3).
+The purpose of the present report is to describe the results of the 2006 excavation
+(Areas C-D), to assess the finds and environmental evidence from that excavation, and
+Birmingham Archaeology 2
+Longdales Road: Archaeological Evaluation 2005
+to provide proposals for an integrated publication of the 2002-3 and 2006 excavations in
+a recognised archaeological journal.
+1.2 Aims
+The general aims of the 2006 excavation (Area C-D) were to identify archaeological
+remains, and to preserve those remains by record. The specific aims were to reveal,
+excavate and interpret any features associated with the occupation of the western
+frontage of Icknield Street, and the area to the rear of the road frontage, where evidence
+of plot or field boundaries may be anticipated.
+2 METHODOLOGY
+The 2006 fieldwork was undertaken in two stages. In Stage 1 two trenches, each
+measuring 50m by 2m were excavated, positioned at an oblique angle to the main areas
+for excavation, and between them. Stage 2 comprised the investigation of the two main
+areas (C and D) selected for investigation, following completion of work in the two
+trenches.
+Within the excavated area the overburden was removed by a mechanical excavator
+working under archaeological supervision to expose the uppermost horizon of the natural
+subsoil. A base plan was prepared, from which the detailed strategy for sampling by
+hand-excavation was devised. Within 60% of the excavated area sampling by hand-
+excavation comprised half of each discrete feature, and 20-50% of linear features
+associated with settlement. This sampling strategy was applied to the western of the two
+areas investigated (Area D). Within the roadside area, where the feature density was less
+intense, a single excavated slot was dug through each feature identified, and discrete
+features were half-sectioned. As an exception, the eaves-drip gully was sampled by
+means of several hand-dug segments. Further investigation of the eaves-drip gully has
+been agreed, but is postponed due to bad weather.
+Recording was by means of a continuously numbered sequence of cut and context
+numbers. During the excavation, pre-printed pro-formas for contexts and cuts were
+completed, together with digitally-surveyed plans (1:50) and hand-drawn sections (1:20
+and 1:10). Monochrome and colour slide photographs were also taken.
+Subject to permission from the landowner, it is proposed to deposit the finds and paper
+archive with the Department of Human History, Birmingham Museums and Art Gallery.
+Birmingham Archaeology 3
+Longdales Road: Archaeological Evaluation 2005
+3 RESULTS
+3.1 Phasing
+The results from the 2006 excavation have been provisionally divided into two phases of
+Romano-British activity, based on spot-dating of the pottery and the recorded
+stratigraphy.
+Phase 1 Early Romano-British activity, late 2nd-early 3rd century
+Phase 2 Later Romano-British activity, later 3rd-4th century
+The Romano-British archaeological features were all cut into the natural subsoil,
+uncovered at a depth of between 0.3-0.45m below the modern ground surface. Those
+excavated features which were merely changes in the natural geology, modern plough
+furrows or field drains are not described below. Most of the features were attributed to
+Phase 1. The Phase 1 features were cut into the natural red-brown clay subsoil
+(6004/7002).
+3.2 Phase 1
+The main features excavated were a series of ditched plot boundaries cut on an east-
+west alignment, at a right-angle to Icknield Street. Some of the plot boundaries were
+further defined by metalled roads adjoining the ditched boundaries. Within the areas
+excavated were examined an area close to the roadside frontage (Area C), and an area
+to the rear of the frontage (Area D), close to the area investigated in 2003 (Area B).
+<Node id="17157"/>Many, but not all of the east-west aligned ditched boundaries could be traced within
+Areas C and D<Node id="17255"/>, in some cases because of differential preservation. The plots extended
+over 100m to the rear of the Icknield Street frontage, assuming that the Roman road
+was roughly contiguous with the modern road. Within Areas C and D were investigated
+the full width of three plots (lettered A, B and C, from south to north), and part of a
+fourth (D). Plot A measured approximately 28m in width (measured centre to centre of
+the road surfaces). Plot B to the north measured 31m in width, and Plot C measured 22m
+in width. Finally, Plot D was recorded for a maximum width of 14m, but its northern limit
+was not recorded within the excavated area.
+Plot A
+The southern boundary of Plot A was formed by a pebble road surface, 6147, measuring
+up to 4m in width. Towards the Roman road frontage the road joined an east-west
+Birmingham Archaeology 4
+Longdales Road: Archaeological Evaluation 2005
+aligned pebble surface, 6147A, recorded for a maximum width of 5.5m, and for a length
+of 21m.
+The only features recorded within Plot A were two adjoining pits, 6091 and 6095, each
+measuring an average of 0.65m in diameter, located to the rear of the frontage, and
+single post-hole, 7033, recorded closer to the Roman road frontage. The features were
+backfilled with brown-grey silt-sand-clay.
+The western continuation of road 6147 may have been located in Area B excavated in
+2003 (F442, Williams 2003b, fig. 2), and during the watching brief in 2004 (F119, Mason
+2004, fig. 2).
+Plot B
+The northern limit of Plot A and the southern boundary of Plot B were defined by an east-
+west aligned metalled road, 6074, and a parallel ditch to the north, D1. The alignment of
+the southern edge of this road varied between Areas C and D, possibly as a result of
+resurfacing on a slightly different alignment. The road was better preserved in Area D,
+being more truncated, perhaps as a result of ploughing, in the Roman roadside area. This
+metalled surface was composed of pebbles measuring 0.02-0.10m in diameter with
+occasional slightly larger sub-rounded stones. The road measured between 3.0 and 3.8m
+in width and survived to a depth of between 0.04 and 0.09m in depth. A single post-hole,
+7048, was cut into the road surface in Area C. In contrast to the road surface, the
+associated ditch, D1, was better preserved towards the road frontage area, D1a. The
+ditch segments cut in Areas C and D followed slightly different alignments; the alignment
+recorded towards the road frontage, D1a, being tangential to ditch D1. Overall, the ditch
+was cut to a U-shaped profile, and measured an average of 0.8m in depth, and between
+0.16m and 0.26m in depth. It was backfilled with orange-brown sand-silt.
+Within the excavated part of Plot B was recorded the eastern and western ends of a
+rectangular enclosure, Enclosure E1, dug to the north of roadside ditch D1. Parts of the
+northern, D6, the western, D5, and eastern, D4, sides of the enclosure were recorded
+within the areas excavated. As so defined, the enclosure measured 22m (north-south),
+by a maximum of 50m (east-west). The eastern side of the enclosure was misaligned
+with the other sides of the enclosure, and with the Plot B boundaries.
+The westernenclosure ditch, D5, was cut to the north of roadside ditch D1/D1a. <Node id="20496"/>No
+relationship could be observed between the enclosure and roadside ditches<Node id="20572"/>, which may
+have respected each other. D5 was cut to a U-shaped profile, and measured a maximum
+Birmingham Archaeology 5
+Longdales Road: Archaeological Evaluation 2005
+of 0.7m in width, and 0.32m in depth. The western edge of the ditch was cut by a post-
+hole, 6113, which measured 0.3m in diameter. An entry-gap measuring 0.7m in width
+was retained at the northwestern angle of the enclosure. The entry-gap was further
+defined by a north-south aligned gully, 6136, cut flush with the western terminal of the
+northern ditch of the enclosure, D6, and by a pit, 6134, cutting D5 towards its northern
+terminal. The pit measured 0.98m in diameter. D6 was cut to a U-shaped profile, and
+measured an average of 0.35m in depth, varying from 0.5m to 0.8m in width, at its
+western and eastern terminals, respectively. The eastern ditch of the enclosure, D4
+measured an average of 0.43m in depth, and between 0.8m and 0.52m in width, at its
+northern and southern terminals, respectively. The southern terminal of D4 respected
+D1a, the northern roadside ditch.
+Within the Enclosure E1 interior, the main group of features were concentrated within its
+southeastern angle, and comprised a circular ring-gully, R2, and associated features. The
+earliest features of this group were two post-holes, 7062 and 7064, which were both cut
+by ring-gully R2. The eastern half of the ring-gully was recorded within the excavated
+area. R2 measured 8.2m in diameter. It measured 0.4-0.5m in width, and 0.15m in
+depth, and was cut to a U-shaped profile. It was backfilled with charcoal-rich sand-silt-
+clay, 7025. An oval, east-west aligned oval hearth, 7017, was recorded within R2. 7017
+was backfilled with grey-brown silt-sand-clay, 7016, flecked with charcoal. A single post-
+hole, 7060, was recorded within the interior of R2.
+To the south of R1 was a line of small stones, 7074, which may represent the base of a
+truncated gully, surviving to a depth of only 0.02m. This feature could possibly represent
+the eastwards continuation of D1, although this could not be proven. Also to the east of
+R2 was a pit, 7046, measuring 1.2m in diameter, and cut to a U-shaped profile.
+Ditch D5 was backfilled with light grey-brown silt-clay. D6 and D4 were backfilled with
+light grey silt-sand-clay.
+Few features were located within Plot B outside the enclosure. A single post-hole, 7033,
+was recorded immediately to the east of Enclosure E1. It measured 0.4m in diameter.
+Further to the southeast was a further single post-hole, 7039. To the west of the
+enclosure was a spread of stones, 6069/6103, curvilinear in plan, and recorded for a
+length of 10m. This feature may represent the base of a heavily truncated ditch or gully.
+This adjoined a single post-hole, 6115. Other possible features tested by hand-
+excavation were proved to be of natural origin.
+Birmingham Archaeology 6
+Longdales Road: Archaeological Evaluation 2005
+The northern Plot A and southern Plot B ditched boundary may have been continued to
+the west, into Area B (F419, Williams 2003b, fig. 2).
+Plot C
+The northern boundary of Plot B and the southern boundary of Plot C was formed by an
+east-west aligned metalled surface, 6109, with a ditch to its northern edge, D2, similar to
+the arrangement recorded on the Plot A/B boundary further to the south. Surface 6109
+measured a maximum of 5m in width, and comprised small sub-rounded pebbles. Two
+post-holes, 6011 and 6015, were cut into the surface. The post-holes averaged 0.6m in
+diameter and 0.18m in depth. Ditch D2 was heavily truncated by a post-medieval field
+boundary, 6123/7054, dug following the Roman alignment.
+The main feature identified within the interior of Plot C was a ring-gully, R1, possibly oval
+in plan. The southeastern half of the feature was recorded; the remainder, perhaps
+originally less substantial in depth, having been removed by truncation. R1 measured
+10.3m in diameter. An entry-gap, measuring 0.6m in width was recorded in the
+southeastern angle of the feature. The ring-gully was cut to a U-shaped profile. It
+measured a maximum of 0.6m in width and 0.18m in depth (in the southeast), to 0.26m
+in width and 0.05m in depth along its southwestern side. R1 was backfilled with grey-
+brown silt-sand-clay.
+A number of features were recorded within the interior of R1. Three post-holes, 6071,
+6076 and 6078, in the southwest of the ring-gully could have been associated with an
+entrance structure not otherwise surviving. An adjoining pit, 6119, was also recorded.
+Traces of stone-packing survived within 6071, which was cut to a U-shaped profile, and
+measured 0.38m in diameter, and 0.18m in depth. Two further post-holes, 6080 and
+6082, and a small pit, 6087, were recorded towards the centre of the ring-gully. The
+post-holes measured an average of 0.35m in diameter, and 0.18m in depth. The central
+group of features could have represented central supports to the structure.
+R1 and the associated features could have been in use in late Phase 1, or early Phase 2,
+as suggested by the pottery dating evidence.
+The only other feature within Plot C was a large, flat-based pit, 6017, recorded to the
+southwest of R1. In plan, it measured 6.4m by 5.8m, and was cut to a maximum depth
+of 0.26m. It was backfilled with redeposited subsoil and light grey silt-clay, 6016. The
+sequence of backfills suggests gradual backfilling of the feature, which is interpreted as
+Birmingham Archaeology 7
+Longdales Road: Archaeological Evaluation 2005
+an animal watering hole. The feature was surrounded by a possible pebble surface (not
+illustrated). <Node id="26126"/>No features were recorded in this plot closer to the Roman road<Node id="26189"/>.
+The northern Plot B/ southern Plot C boundary may have been continued to the west,
+into Area B (F410, Williams 2003b, fig. 2).
+Plot D
+The northern limit of Plot C, and the southern side of Plot D was defined by an east-west
+aligned ditch, D3, and a metalled road, 6146, recorded immediately to the north. D3 was
+cut to a U-shaped profile, and measured 0.5-0.65m in width, and 0.1-0.23m in depth. In
+Area D the ditch became notably less substantial in the east of the excavated area, which
+might suggest its possible eastward continuation into Area C, adjoining the roadside
+area, could have been entirely scoured-out by truncation. D3 was backfilled with brown
+sand-clay. In contrast to the other ditched plot boundaries, ditch D3 was slightly
+curvilinear in plan. <Node id="26956"/>This irregularity might suggest that it was not part of the original
+Roman layout<Node id="27037"/>. This hypothesis is supported by the narrow width of Plot C (22m),
+compared with a width of approximately 30m for Plots A and B, although admittedly it is
+not possible to draw firm conclusions from the limited sample of the roadside area
+provided by the 2006 excavation. <Node id="27309"/>The small excavated sample of the Plot D interior
+contained no identifiable Roman features<Node id="27399"/>. The absence of features within the interior of
+this plot is not surprising given that more of the plot's interior was tested towards the
+Roman road frontage, which contained few features in Plots A-C to the south.
+The southern Plot C/ northern Plot D boundary may have been continued to the west,
+into Area B (F408, Williams 2003b, fig. 2). A further ditched boundary (F405), cut on the
+same alignment in Area B was not recorded as continuing into Area C. A stone surface
+(F421) was found in Area B to the south of plot boundary ditch F410. This stone surface
+could be equivalent to surface 6109 found in Area C.
+Dating evidence
+Enclosure E1 contained pottery dating to the 2nd-3rd century, AD 120+, late 2nd century
++, and to the 2nd-3rd century from ditch D5, and to the 2nd-3rd century from ditch D4.
+Ditches D1 and D2 contained Roman pottery. Ditch D3 contained pottery dating AD
+120+, to the mid 2nd-early 3rd century, and to the 2nd-3rd century, as well as material
+classed only as Roman. Road surface 6074 contained pottery dating to the 2nd-4th
+century. Pit 6017 in Plot C contained 2nd century pottery.
+Birmingham Archaeology 8
+Longdales Road: Archaeological Evaluation 2005
+3.3 Phase 2
+The metalled roads, 6147 and 6074, defining the southern and northern limits of Phase 1
+Plot A had gone out of use by the end of Phase 1. <Node id="28735"/>It is not clear if the other parallel roads
+and plot boundaries had gone out of use at the same time<Node id="28835"/>.
+The main Phase 2 feature was the northeastern angle of a ditched enclosure, Enclosure
+E2. Only part of the eastern side, and a very short length of the northern side of this
+enclosure were recorded at excavation; its other sides lay outside the excavated area.
+The eastern ditch of the enclosure, D7, was cut through Phase 1 roads 6147 and 6074,
+and the northern ditch, D8, was also cut into surface 6074. The eastern ditch, D7, was
+cut to a U-shaped profile, and measured between 0.8-1m in width, and 0.36m-0.5m in
+depth. It was backfilled with grey silt-sand-clay. The short excavated length of the
+northern ditch, D8, was cut to a similar profile, and measured a maximum of 1.58m in
+width and 0.5m in depth. It was backfilled with mid grey-brown silt-sand-clay, 6072.
+An east-west aligned ditch, D9, cut to the north of Enclosure E2 may have been
+associated. D9 was cut for a distance of 20m. Ditch D9 was cut through the backfilled
+Phase 1 ditch D5 (Enclosure E1) and into the subsoil, 6004. Ditch D9 was cut to a U-
+shaped profile, and measured a maximum of 0.63m in width, and 0.15m in depth. It was
+backfilled with grey-brown silt-sand-clay. This ditch may possibly represent a re-
+definition of the Phase 1 northern Plot A, and southern Plot B boundary ditch D1. A gap
+measuring 4m was retained between ditch D9 and the northern side of Enclosure E2, D8.
+This gap could suggest that part of the width of Phase 1 road 6074 could have continued
+in use during Phase 2, a suggestion which may be supported by the recovery of pottery
+dating to the 2nd-4th centuries from its surface.
+Further to the north was a pit, 6062, sub-circular in plan, measuring a maximum of 2.5m
+in width, and 0.5m in depth. It was backfilled with charcoal-flecked silt-clay. In the
+extreme northeastern angle of Area C was an irregular pebble spread, 7076, which
+sealed the backfilled Phase 1 plot boundary, D3.
+As noted above, R1 in Phase 1 Plot C could also have continued in use into Phase 2.
+The northeastern side of Phase 2 Enclosure E2, D8, was approximately flush with the
+northern terminals of ditches F416 and F417 (Williams 2003b, fig. 2), which might
+suggest that they represented the northern end of the western side of this enclosure.
+Assuming that this interpretation was correct, an entry-gap would have been retained at
+Birmingham Archaeology 9
+Longdales Road: Archaeological Evaluation 2005
+the northwestern angle of the enclosure, since no trace of the western end of its northern
+side was recorded within Area B. The maintenance of an entry-gap at the corner of an
+enclosure is an arrangement often associated with the sorting of livestock.
+Dating evidence
+Ditch D7 contained pottery dating AD 240+ and residual material dating AD 120+; of 2nd
+to 3rd century date, and of 3rd to 4th century date, and residual material of late 2nd to
+3rd century date from the same cut. Ditch D8 contained pottery of late 3rd to 4th
+century date. Ring-gully R1 contained pottery dating AD 240+, and associated feature
+6082 contained pottery dating to the 3rd-4th century which may suggest the features
+continued in use into Phase 2. Finally, pit 6062 contained pottery dating to the 3rd-4th
+century.
+4 ASSESSMENT
+4.1 Quantifications
+TABLE 1: Archive quantification (excludes 2002 evaluation)
+Record Number
+Contexts/ features 280
+Assemblage summaries 1 file
+Colour slide 3 films
+Colour print 2 films
+Black and white prints 3 films
+Drawings 80
+Env sample record files 1
+Survey file 1
+Birmingham Archaeology 10
+Longdales Road: Archaeological Evaluation 2005
+TABLE 2: Finds quantification (excludes 2002 evaluation)
+Material type Quantity
+Fired clay/daub 8
+Romano-British coarse
+pottery
+430
+Samian 4
+Mortaria 1
+Post-medieval pottery 9
+Post-medieval iron
+objects
+5
+Slag 13
+Post-medieval coin 1
+4.2 Small finds
+<Node id="32624"/>None of the recovered finds, with the exception of the pottery, was worthy of assessment
+or detailed study<Node id="32730"/>.
+4.3 Pottery by Jane Evans
+The 2006 fieldwork at Longdales Road produced 435 sherds of Romano-British pottery,
+weighing 3.3kg. Sherds were heavily abraded, due to the acidic soils. Most context
+groups were very fragmentary, though some contexts produced more substantial
+fragments (for example a near complete profile of a tankard from 6062, f 6065). The
+assemblage came from 48 stratified contexts, only 13 sherds being unstratified. The
+assemblage is summarised and spot dated in Table 3 below.
+Birmingham Archaeology 11
+Longdales Road: Archaeological Evaluation 2005
+TABLE 3: Pottery, summary by context
+Context/cut/
+construct Qty. % Qty. Wt (g) % Wt. Spot date
+6000 layer 2 0.5% 4 0.1% C2nd-C4th
+6006/ 6007/ D5 6 1.4% 20 0.6% C2nd-C3rd
+6006/ 6007/ D5 4 0.9% 43 1.3% c 120+
+6008/ 6009/ D3 24 5.5% 127 3.9% c 120+
+6010/ 6011 3 0.7% 2 0.1% Roman
+6012/ layer 2 0.5% 30 0.9% Roman
+6014/ 6015 9 2.1% 11 0.3% Roman
+6016/ 6017 27 6.2% 181 5.5% C2nd
+6024/ 6025/ D3 24 5.5% 165 5.0% Mid C2nd­Early C3rd
+6028/ 6029/ R1 48 11.0% 320 9.8% c 240+?
+6030/ 6031/ R1 1 0.2% 19 0.6% Roman
+6032/ 6033/ R1 2 0.5% 3 0.1% c 120+
+6036/ 6037/ D3 1 0.2% 22 0.7% Roman
+6046/ 6047/ D7 20 4.6% 117 3.6% c 120+
+6048/ 6049/ D3 9 2.1% 33 1.0% C2nd-C3rd
+6050/ 6047/ D7 6 1.4% 50 1.5% c 240+
+6051/ 6052/ D7 4 0.9% 41 1.2% C2nd-C3rd
+6064/ 6068 4 0.9% 24 0.7% Roman
+6065/ 6062 8 1.8% 175 5.3% C3rd-C4th
+6072/ 6073/ D8 3 0.7% 92 2.8% Late C3rd-C4th
+6074 layer 40 9.2% 148 4.5% C2nd-C4th
+6081/ 6082/ R1 2 0.5% 26 0.8% C3rd-C4th
+6083/ 6085/ D7 33 7.6% 485 14.8% C3rd-C4th
+6084/ 6085/ D7 8 1.8% 136 4.1% Late C2nd-C3rd
+6086/ 6087/ R1 1 0.2% 4 0.1% Roman
+6096/ 6097/ D5 2 0.5% 92 2.8% Late C2nd+
+6100/ 6101/ D5 1 0.2% 14 0.4% Roman
+6104/ 6105/ D5 1 0.2% 19 0.6% C2nd-C3rd
+6108/ 6109 2 0.5% 3 0.1% Roman
+6125/ 6126/ D10 2 0.5% 4 0.1% Roman
+6129/ 6130 1 0.2% 50 1.5% Roman
+7001 layer 7 1.6% 26 0.8% Roman
+7003/ 7005/ D1a 15 3.4% 46 1.4% Roman
+7012/ 7013 2 0.5% 4 0.1% Roman
+7014/ 7015/ R2 10 2.3% 48 1.5% c 120+
+7016/ 7017/ R2 8 1.8% 149 4.5% Roman
+7018/ 7019/ R2 4 0.9% 21 0.6% Roman
+7020/ 7019/ R2 11 2.5% 62 1.9% Roman
+7021/ 7022/ D4 5 1.1% 35 1.1% C2nd-C3rd
+7023/ 7024/ D4 14 3.2% 100 3.0% Roman
+7025/ 7026/ R2 2 0.5% 1 0.0% Roman
+7030/ 7031/ R2 5 1.1% 118 3.6% Roman
+7041/ 7042/ D1a 2 0.5% 1 0.0% Roman
+7045/ 7046 14 3.2% 6 0.2% Roman
+U/S 7 1.6% 59 1.8% Late C2nd-C3rd
+U/S 1 0.2% 3 0.1% Roman
+U/S 2 0.5% 1 0.0% c 120+
+U/S 11 2.5% 43 1.3% c 120+
+U/S 15 3.4% 99 3.0% Roman
+Total 435 100.0% 3282 100.0%
+Birmingham Archaeology 12
+Longdales Road: Archaeological Evaluation 2005
+Dating
+The spot dating of the assemblage is not precise, relying heavily on Severn Valley ware
+forms with broad, overlapping date ranges. However, two broad phases of activity were
+apparent.
+Evidence for 2nd century activity (Phase 1) is provided by a Malvernian tubby cooking
+pot (cf Peacock 1967, fig. 1.1, 2). A number of Severn Valley ware forms date broadly to
+the 2nd to 3rd centuries: Webster type A6 and C22 jars (Webster 1976, fig.1, fig. 4
+respectively) from D5/6105, f 6104; D4/7022, f 7021; 6017, f 6016. Some Severn
+Valley ware bowls (from layer 6074; 6085, f 6084) dated more specifically to the late
+2nd to 3rd centuries (Webster 1976 type F50, fig. 8). A Black Burnished ware, grooved
+rim bowl or dish (layer 6024) also indicates activity some time around the mid 2nd to
+early 3rd century (Seager Smith and Davies 1993, fig. 123, type 24). It is possible that
+these latter forms provide a more reliable indication of the earliest activity on the site. A
+few sherds of samian were also recovered, all very abraded. These have not been
+identified and need to be examined by a specialist. It is possible, based on the evidence
+from previous excavations at Longdales Road (Willis 2003) that these date to the
+Antonine period. A fluorit of activity during the second half of the 2nd century would be
+consistent with the evidence from the 2003 excavations (Evans 2005).
+A variety of forms dated to the late 3rd or 4th century (Phase 2). The Severn Valley ware
+included a Webster type C27 jar (Webster 1976, fig. 5) and a splayed tankard (Webster
+1976 fig. 7, type E43 or E44), from D8/6073, f 6072 and 6062, f 6065, respectively.
+Black burnished ware flange rimmed bowls (Seagar Smith and Davies 1993, fig. 124,
+type 124) from R1/6082, f 6081; and D7/6085, f 6083 also provided good evidence
+for this period of activity, as did Oxfordshire mortaria (Young 2000, fig. 21 M18 and fig.
+22 M20) from R1/6029, f 6028 and D7/6047, f 6050. A rim from a Mancetter
+Hartshill, multi-reeded hammerhead mortarium could be contemporary (context 6096).
+Late 3rd to 4th century activity is also attested at the previously excavated Longdales
+Road sites (Hancocks 2003; Evans 2005).
+Some contexts were given a tpq of c AD 120, based on the presence of body sherds in
+Black Burnished ware. It is likely that these in fact date to at least the mid-to-late 2nd
+century, based on the BB1 forms identified. <Node id="37666"/>Other contexts provided no diagnostic fabrics
+and forms and could only be broadly dated to the Roman period<Node id="37773"/>.
+Birmingham Archaeology 13
+Longdales Road: Archaeological Evaluation 2005
+Sources
+The range of sources is similar to that noted in previous excavations at Longdales Road.
+The assemblage is dominated by Severn Valley ware, representing more than 70% by
+sherd count. Other sources included Dorset Black Burnished ware and Malvernian ware,
+and mortaria from Mancetter Hartsh and the Oxfordshire kilns. Only 4 sherds of samian
+were recovered, fragmentary body sherds and a base, all badly abraded. <Node id="38268"/>No amphorae
+was present<Node id="38291"/>.
+Recommendations
+The assemblage complements the evidence from previous excavations at Longdales Road
+(Hancocks 2003; Evans 2005) and needs to be fully recorded for publication. It is
+estimated that c 25 sherds w require illustration. The material from the 2002 evaluation
+w be integrated with the material from the 2006 excavation.
+4.4 Charred plant remains by Val Fryer
+Introduction and method statement
+Samples for the retrieval of the plant macrofossil assemblages were taken from across
+the excavated areas, and twenty two were submitted for assessment.
+The samples were bulk floated by Birmingham Archaeology and the flots were collected
+in a 500 micron mesh sieve. The dried flots were scanned under a binocular microscope
+at magnifications up to x 16 and the plant macrofossils and other remains noted are
+listed on Tables 4 and 5. Nomenclature within the tables follows Stace (1997). All plant
+remains were charred. Modern contaminants including fibrous roots, seeds, fungal
+sclerotia and arthropods were present throughout.
+Results
+With the exception of charcoal fragments, plant macrofossils were exceedingly scarce.
+Single grains of barley (Hordeum sp.) and wheat (Triticum sp.) were recorded along with
+a spelt wheat (T. spelta) glume base and individual seeds of persicaria (Persicaria
+maculosa/lapathifolia) and dock (Rumex sp.). Preservation was quite poor, with most
+remains being puffed and distorted (possibly as a result of combustion at very high
+Birmingham Archaeology 14
+Longdales Road: Archaeological Evaluation 2005
+temperatures) and very fragmented. As noted above, charcoal/charred wood fragments,
+including some very large pieces, were present at varying densities throughout although
+again, preservation was poor, with much of the material being heavily abraded. Other
+plant macrofossils were all but absent, although minute pieces of charred root/stem were
+recorded within three assemblages.
+Other material types were also very scarce, and it is considered most likely that of those
+recorded, most were intrusive within the contexts. Many of the porous and tarry residues
+had the appearance of modern `coke' and small coal fragments were also recorded.
+Conclusions and recommendations for further work
+Without exception, the assemblages are all extremely small (most being considerably
+ 0.1 litres in volume) and most contain little other than charcoal/charred wood
+fragments. <Node id="40698"/>There is no evidence for the primary deposition of material within any of the
+features recorded<Node id="40793"/>, and it would appear most likely that the assemblages are largely
+derived from scattered or wind-blown hearth waste, which accidentally became
+incorporated within the feature fills. It is not clear whether this may imply that the site
+was little used and peripheral to any main centre of activity or whether it was kept clear
+of most refuse. The poor condition of the material may indicate that it was either
+exposed for a considerable period prior to burial, or it has become abraded as result of
+the subsequent disturbance of the deposits (as possibly suggested by the modern
+contaminants).
+As none of the assemblages are quantifiably viable (i.e. containing 100 specimens), no
+further analysis is recommended.
+Birmingham Archaeology 15
+Longdales Road: Archaeological Evaluation 2005
+TABLE 4: Charred plant remains, assessment results
+Sample No. 8 16 27 31 32 33 35
+Context No. 7003 6063 6104 7018 7016 7023 7030
+Feature No. 7005 6062 6105 7019 7017 7024 7031
+Feature type Ditch D1a Pit Ditch D5 Ring gully
+R2
+Ring gully
+R2
+Ditch D4 Ring gully
+R2
+Plant macrofossils
+Hordeum sp. (grains) x xcf
+Triticum sp. (grains) xcf x
+T. spelta L. (glume base) x
+Cereal indet. (grains) x x
+Persicaria maculosa/lapathifolia x
+Rumex sp. x
+Charcoal 2mm xxxx xxxx x xxxx xxx x xx
+Charcoal 2mm xx xx x xxx xx x xx
+Charcoal 5mm x x
+Charred root/stem x x
+Indet.seeds x x
+Other materials
+Black porous 'cokey' material x
+Black tarry material x
+Small coal frags. x x x
+Vitrified material x
+Sample volume (litres)
+Volume of flot (litres) 0.1 0.1 0.1 0.1 0.1 0.1 0.1
+% flot sorted 100% 100% 100% 100% 100% 100% 100%
+Birmingham Archaeology 16
+Longdales Road: Archaeological Evaluation 2005
+TABLE 5: Charred plant remains, contexts assessed
+Sample no. Context Cut Feature type/construct Contents
+4 6028 6029 Ring gully R1 CH;BTM;COAL
+10 6016 6015 Ring gully R1 CH;CR/ST;BTM;COAL
+20 6072 6073 Ditch D8 CH;BPC;BTM
+23 6079 6080 Post hole CH;BPC;COAL
+25 6086 6087 Pit CH
+26 6100 6101 Ditch D5 CH
+28 6096 6097 Ditch D5 CH
+29 6112 6113 Post hole CH;BPC
+30 6118 6119 Pit CH;BPC;COAL
+34 7025 7026 Ring gully R2 CH
+36 7021 7022 Ditch D4 CH
+38 6129 6130 Road CH
+40 6131 6132 Ditch D6 CH
+41 6135 6136 Gully CH
+42 6133 6134 Pit CH
+Key to Tables
+x = 1 ­ 10 specimens xx = 10 ­ 50 specimens xxx = 50 ­ 100 specimens xxxx = 100+ specimens
+cf = compare CH = charcoal BTM = black tarry material CR/ST = charred root/stem
+BPC = black porous `cokey' material
+5 UPDATED PROJECT DESIGN
+5.1 General
+This section of the assessment defines the main research themes. Most of the research
+themes identified in the previous assessments (Williams 2003a and 2003b) remain
+relevant.
+Chronology
+For the purposes of assessment, the Roman features have been divided into two phases.
+Phase 1 represents the first definition of the plot boundaries, also associated with
+Enclosure E1 in Plot B. This phase is dated to the later 2nd-early 3rd century. Ring-gully
+R1 in Plot C may also be attributed to this phase, although its later re-cutting and re-use
+is suggested by the recovery of 3rd-4th century pottery from the fill. Phase 2 activity is
+dated to the later 3rd-4th century. Only limited activity is recorded in this phase,
+Birmingham Archaeology 17
+Longdales Road: Archaeological Evaluation 2005
+comprising the cutting of a ditched enclosure (Enclosure E2) across Phase 1 Plot A, the
+excavation of a pit, 6062, and the layout of a stone surface, 7076, close to the Roman
+road frontage. The evidence from Areas C and D suggests that the floruit of this Roman
+activity was during the later 2nd-early 3rd century. In contrast, activity in the adjoining
+Area B (Williams 2003b) was more intense during the later 3rd-4th century. Further
+analysis of the pottery from Areas C and D, and comparison with the material from Area
+B, and the features found in that area w further refine the sequence and dating, as well
+as facilitating comparison with the Area A evidence. It has been suggested above that
+the different width of Plot C, and the slightly curvilinear plot boundary, D3, could suggest
+that this plot was not part of the original layout, although this cannot be proven.
+Area B ring-gully F411 (Williams 2003b) was cut by plot boundary F410, which may have
+defined part of the Plot B/C boundary, suggesting that activity away from the road
+frontage pre-dated the formal layout of plot boundaries which extended up to the Roman
+road frontage.
+Site function and morphology: changes
+The earliest Roman activity within Areas C and D was the layout of plot boundaries,
+defined by ditches, metalled roads or both. The limited dating evidence suggests that this
+layout dates to the later 2nd century. With the exception of Plot B, few internal features
+could be identified. Plot B contained a rectangular enclosure, Enclosure E1, one side
+adjoining the southern ditched boundary of the plot. The enclosure contained a ring-gully
+and a number of associated features, mainly post-holes. An entry-gap was recorded in
+the northwestern angle of the enclosure, which suggests use of the enclosure for
+livestock. A broad, flat-based pit, 6017 located in Plot C may be interpreted as an animal
+drinking trough. Although not exactly the same in width, the similarity in the width of the
+excavated plots A and B could suggest that they were laid out as one operation. An
+intriguing possibility is that plot boundaries were laid out along the eastern and western
+frontages of the Roman road at the same time. Ordnance survey mapping (Fig. 4)
+indicates that the Plot A/B and C/D boundaries were approximately flush with existing
+field boundaries recorded on the eastern frontage of Icknield Street. The southern
+boundary of Field 1 is also likely to have been cut on the line of a Roman plot boundary;
+the distance between the field boundary and the southern Plot A boundary was similar to
+the average plot boundary width recorded. Moreover, Field 4 to the south is
+approximately three such plot boundaries in width. Remaining on the western side of the
+Roman road, there are three field boundaries which run at a right-angle to it recorded to
+the north of Longdales Road (Fig. 4). Fieldwork by Worcestershire CC has identified a
+Birmingham Archaeology 18
+Longdales Road: Archaeological Evaluation 2005
+pebble surface to the east of Lilycroft Farm, and a continuation of Roman activity to the
+south of Primrose Hill.
+Phase 2 activity in Areas C and D was more limited in extent than that of the preceding
+phase. <Node id="47233"/>With the exception of metalled surface 7076 no Phase 2 activity was recorded
+close to the road frontage<Node id="47336"/>. This metalled surface clearly implies that the Plot C/D
+boundary had gone out of use in this phase. Phase 2 Enclosure E2 could have been
+associated with livestock, particularly if it was associated with the possible northwestern
+side of the enclosure containing an entry-gap, as recorded in Area B (F416, F417,
+Williams 2003b).
+Site economy and function
+Investigation of the Area C and D roadside areas is complimentary to the previous areas
+investigated (Areas A and B). In each case an association with animal husbandry may be
+suggested. Investigation of Areas C and D confirms that <Node id="47923"/>the site was not a `typical'
+roadside settlement<Node id="47971"/>, in which case a concentration of features would be anticipated
+immediately adjoining the Roman road. The results of the 2006 excavations suggest that
+the occupation of the frontage area was not domestic in nature, with the sole exception
+of ring-gully R2. Most significantly, the plot boundaries were recorded for a distance of at
+least 90m to the rear of the Icknield Street frontage. Such a plot depth is unlikely to be
+associated with domestic occupation, since roadside plots are typically no more than
+approximately 30m in depth.
+Comparison of the pottery w help to elucidate site status and trading patterns, as well
+as any intra-site variations.
+Site function and status
+Excavation in 2006 has demonstrated that the roadside area was not the main focus of
+activity. Rather, settlement was concentrated to the rear of the frontage, and the road
+frontage area was also given up in the later 3rd century. The morphology of the Area A
+enclosure complex (Williams 2003a) suggests an association with livestock. <Node id="48986"/>Evidence
+from excavations in 2002, 2003, 2004 and 2006 suggests that the settlement remains
+were not confined to a single farm<Node id="49112"/>. It is possible that the remains could have formed part
+of a small hamlet (Hingley 1989, 76) where multiple `compounds' would be anticipated.
+The economy of the site may have been dependant on livestock, rather than the
+opportunities provided to sell goods or produce to travellers. One possibility is that the
+site was a local market centre (Hingley 1989, 112), perhaps with a particular emphasis
+Birmingham Archaeology 19
+Longdales Road: Archaeological Evaluation 2005
+on the sale of livestock. The position of the Longdales Road settlement within the local
+hierarchy of settlement should be explored in detail.
+Roman, and post-Roman landscape archaeology
+The identification of different settlement foci (Area A, Area B, and Area C/D roadside
+activity) provides some opportunities for landscape reconstruction, and also for
+comparison with other extensively-investigated Roman roadside settlements (e.g. M6
+Toll, A5 Weeford-Fazeley, A1(M) Ermine Street, Cambridgeshire, A419/A417,
+Wiltshire/Gloucestershire, among others). Evidence for the post-Roman landscape should
+also be considered.
+5.2 List of updated aims
+1) To define the chronology of the enclosures and other Romano-British features.
+2) To provide an understanding of the changes in site morphology and function.
+3) To attempt to define the site economy and function, including a review of the
+comparative evidence.
+4) To relate the site to the hierarchy of later Roman rural settlements in the midlands
+and in the surrounding region.
+5) To attempt to reconstruct the Roman roadside landscape, and to provide comparison
+with other Roman roadside excavations focusing on the corralling of livestock.
+6 PUBLICATION SYNOPSIS
+The results w be fully integrated with the results from the previous excavation and
+published as a monograph in a recognised archaeological journal (eg BAR).
+It is intended to publish the results of work in Areas A-D as sequential sections within a
+single overall report, within the following overall arrangement
+Chapter 1 Summary and introduction (Areas A-D and watching brief
+Chapter 2 Area A
+Description and interpretation of results
+Finds
+Discussion
+Chapter 3 Area B
+Description and interpretation of results
+Birmingham Archaeology 20
+Longdales Road: Archaeological Evaluation 2005
+Finds and environmental evidence
+Discussion
+Chapter 4 Areas C-D
+Description and interpretation of evidence
+Finds and environmental evidence
+Discussion
+Chapter 4 Summary of watching brief
+Chapter 5 Synthesis and overview
+The suggested layout of the Area C-D section of the overall report is as follows:
+Text
+Summary (250w)
+Introduction, aims and methodology, archaeological setting (with Areas A-B, 1000w, 2
+figures)
+Description and interpretation of results (4,000w, 1 table, 5 figures, 5 plates)
+Finds and environmental evidence
+Roman pottery (3,000w, 2 tables, 1 figure)
+Charred plant remains (1,000w, 1 table)
+Discussion (3,000w)
+Contribution to general discussion and synthesis (1,000w)
+Total 13,250 w, 4 tables, 5 plates, 8 figures
+Figures
+1 Site location
+2 Site location, topography and alignment of Roman road
+3 Areas investigated (A-D)
+4 Simplified plan, Phase 1-2 features
+5 Detailed plans of ring-gullies
+6 Phase 1 plan
+7 Phase 1 sections
+8 Phase 2 plan
+9 Phase 2 sections
+10 Pottery
+Birmingham Archaeology 21
+Longdales Road: Archaeological Evaluation 2005
+(Overall site plans w include details of features found by Worcestershire CC fieldwork)
+8 TASK LIST
+STAGE A, PRELIMINARY ANALYSIS. Performance indicator, completion 30/3/2007.
+1 Project management AJ 1
+2 Site archive/update phasing/plans BB 4
+3 Data entry BB 3
+4 Prepare detailed site plans/sections: roughs BB 2
+STAGE B, REPORTING AND ILLUSTRATION. Performance indicator, completion
+29/6/2007.
+5 Project management AEJ 1
+6 Roman pottery recording JE 3
+7 Update database/finds management EM 1
+8 Samian/ mortarium recording FW/KH 1/1
+9 Prepare plans and sections ND 2
+10 Prepare pottery illustrations ND 1
+11 Library research AEJ 1
+12 Roman coarse pottery reporting/discussion JE 3
+13 Update stratigraphic text AEJ 1
+14 Draft discussion AEJ 1
+15 Corrections to illustrations ND 1
+STAGE C, INTEGRATE WITH AREA A/B RESULTS AND COMPLETION OF FIRST DRAFT.
+Performance indicator, completion 31/8/2007
+16 Project management AEJ 1
+17 Integrate and edit Area C/D and A/B texts together AEJ 1
+18 Draft final discussion and synthesis AEJ 2
+19 Corrections to drawings ND 0.5
+20 Prepare archive BB 2
+21 Liaison with referees/final corrections AEJ 1
+22 Deposit archive - 1
+Birmingham Archaeology 22
+Longdales Road: Archaeological Evaluation 2005
+KEY: AEJ=A. Jones, Project Manager/editor; EM, E. Macey, Finds Supervisor; ND = Nigel
+Dodds, Illustrator; JE=Roman coarse pottery; FW=Felicity Wild, samian; KH=Kay
+Hartley, moratium.
+7 ACKNOWLEDGEMENTS
+The excavation was commissioned by Birmingham City Council. Thanks are due to Dr
+Mike Hodder for monitoring the project and giving on-site guidance. The project was
+supervised by Bob Burrows, assisted by Ros Mckenna, Shaun Daly, Emily Hamiltonj, Liz
+Bishop and Jenny White. The specialists are thanked for their contributions. The
+illustrations were prepared by Nigel Dodds and the text was edited by Alex Jones, who
+managed the project for Birmingham Archaeology.
+8 REFERENCES
+Birmingham Archaeology 2006 Written Scheme of Investigation, Archaeological
+Excavation, Longdales Road, Kings Norton, Birmingham.
+Birmingham City Council 2006 Project Design, Archaeological Excavation, Longdales
+Road, Kings Norton, Birmingham.
+Evans, C J, 2005 Longdales Road, Kings Norton, Birmingham, Area B draft pottery report.
+Hancocks, A, 2003 Longdales Road, King's Norton Pottery report, in Williams 2003a, 11-
+13.
+Hingley, R, 1989 Rural Settlement in Roman Britain.
+Mason, P, 2004 Longdales Road, Birmingham, Archaeological Watching Brief 2004. BA
+report 1167.
+Seager Smith, R, and Davies, S M, 1993 Black Burnished Ware Type Series. The Roman
+Pottery from Excavations at Greyhound Yard, Dorchester, Dorset. Wessex Archaeology.
+(Offprinted from P J Woodward, S M Davies, and A H Graham, `Excavations at the Old
+Birmingham Archaeology 23
+Longdales Road: Archaeological Evaluation 2005
+Methodist Chapel and Greyhound Yard, Dorchester 1981-1984,' Dorset Natur. Hist.
+Archaeol. Soc. Monogr. Ser. 12)
+Stace, C, 1997 New Flora of the British Isles. Second edition. Cambridge University
+Press.
+Vaughan, T, 2002 Archaeological Evaluation at Proposed New Cemetery Site, Longdales
+Road, Birmingham, WCC Report 960.
+Webster, P V, 1976, Severn Valley Ware: A Preliminary Study. Trans. Bristol
+Gloucestershire Archaeol. Soc. 94, 18-46
+Willis, S, 2003 Dated Catalogue of the Samian Pottery, Area A, in Williams, Evans and
+Burrows forthcoming.
+Williams, J, 2003a Longdales Road, Kings Norton, Birmingham. Archaeological
+Investigations 2002. Post-Excavation Assessment. BUFAU Report No. 958.
+Williams, J, 2003b Longdales Road, Kings Norton, Birmingham. Archaeological
+Investigations 2003. Post-Excavation Assessment. BA Report No. 958.01.
+Williams, J, Evans, C J, and Burrows, B, forthcoming Excavations 2002-2006 at
+Longdales Road, Kings Norton, Birmingham, British Archaeological Reports, British series.
+Young, C J, 2000 The Roman Pottery Industry of the Oxford Region, BAR, Brit. Ser.
+Birmingham Archaeology 24
+Reproduced from the 1998 Ordnance
+Survey 1:50,000 map with the
+permission of the Controller of Her
+Majesty's Stationary Office,
+c Crown Copyright
+Licensee : Field Archaeology Unit
+University of Birmingham
+Edgbaston
+BIRMINGHAM
+B15 2TT
+Licence No. AL 51303A
+c
+SITE
+Fig.1
+Fig.2
+P
+r i m
+r o
+s
+e
+H
+i l l
+L
+o
+n
+g
+d
+a
+l e
+s
+R
+o a d
+IcknieldStreet
+0 50m
+Field 4
+Field 3
+Field 2
+Field 1
+Lilycroft
+Farm
+Tr.2
+Tr.3
+Tr.5
+Tr.1W
+Tr.2W
+Tr.4
+Tr.6 Tr.7
+Tr.8
+Tr.10
+Tr.11
+Tr.9
+Tr.1
+Tr.3W
+Area B
+Area A
+Area D
+Area C
+A
+B
+C
+D
+T
+0 20m
+6017
+Road/Hardstanding
+Phase 1
+Phase 2
+Longdales
+Road
+7064
+7046
+7074
+7060
+Field 1
+Plot D Plot C Plot B Plot A
+AREA C
+AREA D
+R1
+D3 D2
+D6
+D9
+D7
+D8
+D1
+D4
+D6
+D2
+R2
+D5
+7076
+6146
+6109
+6074
+6074
+6147A
+6147
+6136
+6134
+6115
+6091
+6095
+6119
+6069
+6103
+6078
+6076
+6071 6076
+6080
+6082
+6087
+7017
+6062
+6109
+6123
+Enclosure E2
+Enclosure E1
+Fig.3
+6105
+6011
+6123
+6113
+6004
+7033
+70487062
+D1a
+7002
+7054
+7039
+7033
+Fig.4
+1890
+Pebble
+Surface
+Field Boundaries Aligned
+to Roman Road
+<Node id="57336"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="key">
+<Annotation Id="1" Type="Negation" StartNode="20496" EndNode="20572">
+</Annotation>
+<Annotation Id="3" Type="Negation" StartNode="26126" EndNode="26189">
+</Annotation>
+<Annotation Id="6" Type="Negation" StartNode="32624" EndNode="32730">
+</Annotation>
+<Annotation Id="8" Type="Negation" StartNode="37666" EndNode="37773">
+</Annotation>
+<Annotation Id="9" Type="Negation" StartNode="40698" EndNode="40793">
+</Annotation>
+<Annotation Id="10" Type="Negation" StartNode="47923" EndNode="47971">
+</Annotation>
+<Annotation Id="11" Type="Negation" StartNode="48986" EndNode="49112">
+</Annotation>
+<Annotation Id="12" Type="Negation" StartNode="28735" EndNode="28835">
+</Annotation>
+<Annotation Id="13" Type="Negation" StartNode="27309" EndNode="27399">
+</Annotation>
+<Annotation Id="14" Type="Negation" StartNode="38268" EndNode="38291">
+</Annotation>
+<Annotation Id="15" Type="Negation" StartNode="17157" EndNode="17255">
+</Annotation>
+<Annotation Id="17" Type="Negation" StartNode="26956" EndNode="27037">
+</Annotation>
+<Annotation Id="16" Type="Negation" StartNode="47233" EndNode="47336">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="57336">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

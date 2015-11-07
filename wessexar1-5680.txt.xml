@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='ISO8859-1'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/media/Data/Extracting_GreyLit/Extraction_Development/OPTIMA_Complete/documents/evaluationCorpus/wessexar1-5680.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>CUMBERLAND SCHOOL SPORTS HALL
+BARKING ROAD, CANNING TOWN
+LONDON E16
+ARCHAEOLOGICAL EXCAVATION 
+ASSESSMENT REPORT
+Prepared on behalf of
+London Borough of Newham
+Environment and Regeneration Department
+by
+Wessex Archaeology
+Unit 701
+The Chandlery
+50 Westminster Bridge Road
+London SE1 7QY
+Report reference: 55860
+December 2004
+© Wessex Archaeology Limited 2004 all rights reserved
+r Wessex Archaeology Limited is a Registered Charity No. 287786
+CONTENTS
+1. Summary............................................................................................................i
+2. Acknowledgements...........................................................................................ii
+3. 1 INTRODUCTION............................................................................................1
+4. 1.1 Project Background......................................................................................1
+5. 1.2 The Site.........................................................................................................1
+6. 2 Archaeological Background...........................................................................2
+7. 3 methodology....................................................................................................2
+8. 3.1 Excavation Strategy......................................................................................2
+9. 3.2 Fieldwork Recording....................................................................................3
+10. 3.3 Health and Safety.........................................................................................3
+11. 4 results..............................................................................................................4
+12. 5 Finds ...............................................................................................................5
+13. 6 Discussion.......................................................................................................5
+14. 7 conclusion ......................................................................................................6
+15. 8 Proposals for further analysis and publication..............................................6
+16. 9 Archive............................................................................................................6
+17. 10 OASIS ...........................................................................................................7
+18. 11 BIBLIOGRAPHY...........................................................................................7
+19. APPENDIX 1: CONTEXT DESCRIPTIONS....................................................8
+20. APPENDIX 2: OASIS Form............................................................................10
+FIGURES
+1 Location of Site and Excavation Area
+2 Location of previous evaluation trenches and all archaeological features
+3 Sections through features 309, 311, and 313
+CUMBERLAND SCHOOL SPORTS HALL
+BARKING ROAD, CANNING TOWN
+LONDON E16
+ARCHAEOLOGICAL EXCAVATION 
+ASSESSMENT REPORT
+Summary
+Wessex Archaeology was commissioned by London Borough of Newham 
+Environment and Regeneration Department to conduct an archaeological excavation 
+at the site of the proposed Cumberland School Sports Hall, Barking Road, Newham, 
+centred on NGR 540055, 181897.
+The excavation follows an evaluation of the Site which found evidence for possible 
+Roman activity along with a single prehistoric/Roman unurned cremation burial.
+The excavation comprised a 12m x 18m area centred on a previous evaluation trench. 
+The fieldwork was undertaken over four days, from the 5th
+ to 8th
+ April 2004.
+Four separate features were found during the excavation. Three of these appear to be 
+natural marshland channels and the fourth, a postmedieval drainage ditch.
+The postmedieval activity in the area appears to have been curtailed by an episode of 
+flooding which is represented by a thick layer of alluvium that overlies all features. 
+The results of both the excavation and evaluation suggest that no further significant 
+activities occurred in the area until its development in the 19th
+ century. 
+<Node id="4115"/>No further evidence for cremation burials was found during the excavation<Node id="4188"/>. 
+It is proposed that further analysis of the cremation burial found during the evaluation 
+be carried out to attempt to ascertain its date and that a summary report of the 
+excavation be submitted for publication in The London Archaeologist.
+ 
+i
+Acknowledgements
+Wessex Archaeology is grateful for the assistance and help provided by Bruce 
+McSweeny of the London Borough of Newham Environment and Regeneration 
+Department, and the staff of Cumberland School during the course of the project.
+The project was monitored on behalf of the Local Planning Authority by Nick Truckle 
+of the Greater London Archaeological Advisory Service.
+The fieldwork was carried out by Susan Clelland and Claire Davies. The report was 
+prepared by Susan Clelland with contributions from Lorraine Mepham and Jackie 
+Mckinley (Finds) and Mark Roughly and Liz James (Illustrations). The project was 
+managed on behalf of Wessex Archaeology by Robert Wardill.
+ii
+CUMBERLAND SCHOOL SPORTS HALL
+BARKING ROAD, CANNING TOWN
+LONDON E16
+ARCHAEOLOGICAL EXCAVATION 
+ASSESSMENT REPORT
+1 INTRODUCTION
+1.1 Project Background
+1.1.1 Wessex Archaeology was commissioned by Newham Borough Council (the 
+Client) to conduct an archaeological excavation on land at the site of a 
+proposed sports hall at Cumberland School, Barking Road, Newham, centred 
+on NGR 540055, 181897 (the Site). 
+1.1.2 The works were carried out in accordance with a Written Scheme of 
+Investigation (Wessex Archaeology 2004) which was approved by the 
+Greater London Archaeological Advisory Service (GLASS) of English 
+Heritage, and followed an earlier trenching evaluation of the Site carried out 
+in 2003 (PreConstruct Archaeology Ltd). 
+1.1.3 This document reports on the results of the excavation and sets out proposals 
+for the further assessment of the findings and final publication of the project.
+1.2 The Site
+1.1.4 Cumberland School is located to the south of the A124 Barking Road. The 
+proposed sports hall development is to be sited in the southeast corner of the 
+school grounds (Figure 1).
+1.1.5 The excavation area measured 12m x 18m and was positioned within the 
+footprint of the proposed building, towards its southeast corner where pile 
+foundations w be at their most dense. The position of the excavation area 
+was also located to coincide with the site of a previous evaluation trench 
+(Figure 2) where potentially significant archaeological remains were 
+uncovered.
+1.1.6 The ground surface of the excavation area was covered by grass. Natural 
+geological deposits beneath the Site were found to comprise a light, yellow 
+brickearth. 
+1
+2 ARCHAEOLOGICAL BACKGROUND
+1.1.7 A desktop assessment of the Site (PreConstruct Archaeology 2003a) 
+indicated there was high potential for prehistoric material to be found at the 
+Site. Prehistoric activity has been identified within a Bronze Age or Iron Age 
+soil horizon to the south of the Site and to the east in excavations along the 
+A13. The study concluded there was low to moderate potential for Roman 
+and medieval activity in the area.
+1.1.8 The Site lay within marshland until reclaimation commenced in the post 
+medieval period. The reclaimed land was used for agricultural purposes until 
+the 19th
+ century when the development of the docks and railways led to 
+extensive building in the area. By 1868 streets had been laid out and by 1896 
+the Site was occupied by terrace housing (PreConstruct Archaeology 
+2003a).
+1.1.9 An archaeological evaluation (PreConstruct Archaeology Ltd 2003b) 
+comprising two trenches (Figure 2) revealed potentially significant 
+archaeological activity on the Site. Two ditches interpreted as Roman 
+drainage ditches were recorded in the northern of the two trenches and a wide 
+shallow channel, possibly a natural feature, and the remains of an unurned 
+cremation burial of an adult human were recorded in the southerly trench. 
+The unurned cremation burial could not be properly dated due to a lack of 
+artefactual remains. The nature of the feature however, was indicative of 
+being either prehistoric or Roman in date.
+1.1.10 Sealing these features was a thick layer of alluvial material indicative of 
+widespread flooding in the postRoman period (PreConstruct Archaeology 
+2003).
+3 METHODOLOGY
+3.1 Excavation Strategy
+1.1.11 The excavation was carried out between the 5th
+ and 8th
+ April 2004 to coincide 
+with the school Easter break.
+1.1.12 Topsoil, modern overburden and the thick layer of alluvium mentioned in 
+2.1.4 above was removed using a mechanical excavator under constant 
+archaeological supervision. Subsequent excavation of exposed archaeological 
+features and deposits was undertaken by hand.
+2
+1.1.13 Machine excavated spoil was visually examined for archaeological material.
+3.2 Fieldwork Recording
+1.1.14 All archaeological deposits and features were recorded using the Wessex 
+Archaeology pro forma recording system.
+1.1.15 A complete drawn record of archaeological features and deposits was 
+compiled. This includes sections and plans, drawn to an appropriate scale. 
+The Site and associated archaeological features were tied to the Ordnance 
+Survey National Grid. Ordnance Datum (OD) heights of all features and 
+layers were established.
+1.1.16 A full photographic record was maintained using both colour transparencies 
+and black and white negatives (on 35mm film).
+1.1.17 A Museum of London code of BKP 04, was issued for the Site.
+3.3 Health and Safety
+1.1.18 All work was carried out in accordance with the Health and Safety at Work 
+etc. Act 1974 and the Management of Health and Safety regulations 1992 
+and all other relevant Health and Safety legislation and regulations and codes 
+of practice in force at the time.
+1.1.19 Prior to the commencement of the fieldwork a Risk Assessment was 
+produced. All site staff involved in works signed and complied with this 
+document. 
+3
+4 RESULTS
+1.1.20 Beneath modern deposits (301303) comprising dumps of building material, 
+concrete foundations and levelling deposits was layer (305) which was a 
+thick greyish brown clay layer characteristic of alluvium. The layer, of 
+average depth 0.5m, extended across the Site. <Node id="10324"/>No artefacts were retrieved 
+from this deposit<Node id="10370"/>.
+1.1.21 The upper part of this alluvial layer (304) had been affected by 
+contamination and compaction from the overlying modern activity.
+1.1.22 Archaeological features were found beneath the alluvial layer.
+1.1.23 Two irregular, wide (3.56m) and shallow (0.19m deep) channels [311 and 
+309] (Figure 3), orientated west­north east and south east­north west 
+respectively, intersected towards the centre of the Site. Alluvial clay deposits 
+(312) and (310) filled these channels. Two pieces of worked flint, a core 
+fragment and a retouched flake, were recovered from (312) however, neither 
+could be dated more closely than within the prehistoric period.
+1.1.24 A third feature [306] was present in the southwest corner of the excavation 
+area and appeared to be another shallow natural channel however, its full 
+extent could not be assessed as the feature was only partially exposed within 
+the excavation area. <Node id="11286"/>No artefacts were found in the alluvial clay<Node id="11330"/> f (307). 
+1.1.25 In the north west corner of the excavation a north eastsouth west linear ditch 
+[313] (Figure 3) with moderate to steep stepped sides and a flat base was 
+found. The ditch contained two fills. The lower f (315) was an 
+homogenous greyish blue sandy silt with very rare charcoal flecking. The 
+upper f (314) was a midlight brown stiff alluvial clay. As with the other 
+f deposits at the Site the upper interface with overlying alluvial clay layer 
+(305) was very diffuse. One postmedieval pottery sherd (coarse redware) 
+and several small bone fragments were retrieved from the centre of the ditch 
+fill.
+1.1.26 All features cut into the natural brickearth (308) which was encountered at a 
+height of around 0.74m above Ordnance Datum.
+4
+5 FINDS
+1.1.27 As described above, the finds from the Site comprised two pieces of worked 
+flint, a core fragment and a retouched flake from f (312) which were 
+datable only to the prehistoric period, and one postmedieval pottery sherd 
+(coarse redware) and 3 joining fragments of large mammal longbone from 
+f (314).
+1.1.28 The material recovered during the evaluation of the Site (PreConstruct 
+Archaeology 2003) was reexamined for this report.
+1.1.29 The 130g of cremated bone represents the remains of a single adult. The 
+surviving bone is well oxidised, and not much trabecular bone survives (due 
+to soil acidity). The accompanying bag of residue appears to contain quite a 
+lot of charcoal, as well as more bone.
+1.1.30 The report and records from the evaluation give insufficient detail on the 
+deposit containing the cremated bone, and it appears that the contents of this 
+relatively large feature (0.40m diameter, 0.20m deep) were excavated as a 
+single block. The nature of its excavation mean<Node id="13091"/> that there is no way of 
+determining whether the remains represent those of an unurned buria<Node id="13184"/>l with 
+redeposited pyre debris, or a deposit of pyre debris. This circumstance limits 
+the usefulness of the deposit in understanding the Site. 
+6 DISCUSSION
+1.1.31 The shallow and irregular nature of the wide channels [311 and 309] 
+supports the conclusion of the earlier evaluation results that these features are 
+likely to be natural channels within a marshland environment. The 
+intersection of these two features was investigated during the evaluation and 
+no evidence of phasing was found. It is probable that the both features are 
+contemporary. The two flint artefacts recovered from the f of [311] is 
+insufficient evidence to prove that these features are the result of human 
+activities. 
+1.1.32 Finds recovered from the ditch [313] in the western corner of the excavation 
+suggest that it is postmedieval in origin. This feature may represent a 
+continuation of one of the ditches found in the northerly evaluation trench as 
+the profiles, fills and alignments of both features are similar. If this is the 
+case the tentative interpretation of the feature in the evaluation trench as 
+being of Roman date is likely to be erroneous. 
+1.1.33 The 0.50.7m layer of alluvium located in the evaluation trenches was found 
+to be consistent across the whole of the excavation area as layers (304 and 
+305). No evidence was found to contradict the evaluation conclusion that this 
+5
+layer was the result of flooding however the history of the area and finds 
+recovered from feature [313] show the flooding event to have occurred 
+during the postmedieval period.
+7 CONCLUSION 
+1.1.34 Four features were found during the excavation. Three of these appear to be 
+natural marshland channels and the fourth a drainage ditch indicative of post
+medieval efforts to drain the area for agriculture purposes.
+1.1.35 The postmedieval activity in the area appears to have been curtailed by an 
+episode of flooding which is represented by a thick layer of alluvium that 
+overlies all features. 
+1.1.36 The results of both the excavation and evaluation suggest that no further 
+significant activities occurred in the area until its residential development in 
+the 19th
+ century. 
+1.1.37 <Node id="15362"/>No further evidence for any prehistoric/Roman cremation burials was found 
+during the excavation<Node id="15458"/>. If further burials do exist then they are likely to be 
+located beyond the southeast boundary of the Site.
+8 PROPOSALS FOR FURTHER ANALYSIS AND PUBLICATION
+1.1.38 It is proposed that the cremation burial found during the evaluation works be 
+further assessed. This would comprise extracting the remaining bone 
+fragments from the residue, record the bone to archive level and submit 
+appropriate samples for radiocarbon dating. 
+1.1.39 It is recommended that a summary report of the project be submitted for 
+publication in The London Archaeologist.
+9 ARCHIVE
+1.1.40 The project archive w be held at the offices of Wessex Archaeology at Old 
+Sarum, Salisbury, Wiltshire. In due course the archive w be deposited with 
+the Museum of London and stored under the site code BKP 04. 
+6
+10 OASIS 
+1.1.41 An Online Access to the Index of Archaeological Investigations (OASIS) 
+form has been completed in accordance with the GLAAS policy on 
+improving access to information on PPG16 related fieldwork, and a hard 
+copy is included in this report as Appendix 2. 
+11 BIBLIOGRAPHY
+PreConstruct 
+Archaeology Ltd
+2003a An Archaeological Desktop Assessment of Land 
+at Cumberland School, Alexandra Street, 
+London Borough of Newham. Unpublished
+PreConstruct 
+Archaeology Ltd
+2003b An Archaeological Evaluation at Cumberland 
+School, Alexandra Street, London Borough of 
+Newham. Unpublished
+Wessex 
+Archaeology
+2004 Cumberland School Sports Hall, Barking Road, 
+Written Scheme of Investigation for 
+Archaeological Excavation. Unpublished
+7
+APPENDIX 1: CONTEXT DESCRIPTIONS
+Excavation 
+Trench
+Max depth: 1.34m Length: 18m Width: 12m
+Contex
+t No.
+Type: Description: Depth:
+301 Layer Topsoil/Turf Line A middark brown clayey 
+loam with sparse inclusions
+0­0.1m
+302 Layer A deposit of light brown clayey loam with 
+common rounded gravel inclusions
+0.10.25m
+303 Layer Made ground comprising rubble, brickwork and 
+asphalt
+0.250.5m
+304 Layer Contaminated Alluvium, mid brown stiff clay. 
+Upper part of alluvial episode relating to 305 
+representing postdepositional interaction with 
+overlying make up deposit. Lower interface very 
+diffuse
+305 Layer Greyish brown stiff clay. Occasional semifine 
+roots spreads of very fine charcoal flecks 
+forming a layer of alluvial clays deposited in a 
+marsh environment.
+0.71.2m
+306 Cut Cut of shallow channel. Only present in the SW 
+corner of the trench, full extent and profile 
+unknown
+1.21.35m
+307 F Midlight brown stiff clay alluvial f of channel 
+[306]. Occasional spreads of very fine charcoal 
+flecks. Vertical Fe staining. Very diffuse 
+interface with overlying deposit (305). No 
+artefacts retrieved
+1.21.35m
+308 Natur
+al
+Light creamy yellow, soft spongy brickearth. 
+Very homogenous deposit containing moderate 
+orange brown mineralisations which increase in 
+density with depth
+1.2m+
+309 Cut SENW irregular curvilinear shallow channel
+310 F Midlight brown stiff clay alluvial f of channel 
+[309]. Occasional spreads of very fine charcoal 
+flecks. Vertical Fe staining. Very diffuse 
+interface with overlying deposit (305). No 
+artefacts retrieved
+311 Cut WNE irregular curvilinear shallow channel
+312 F Midlight brown stiff clay alluvial f of channel 
+[311]. Occasional spreads of very fine charcoal 
+flecks and sparse semifine roots. Vertical Fe 
+staining. Very diffuse interface with overlying 
+deposit (305). One worked flint flake retrieved 
+during initial machining.
+8
+313 Cut NESW linear ditch. Moderatesteep sides with 
+square flat base. 
+314 F Upper midlight brown stiff clay alluvial f of 
+channel [313]. Occasional spreads of very fine 
+charcoal flecks and sparse semifine roots. 
+Vertical Fe staining. Very diffuse interface with 
+overlying deposit (305). One pottery sherd and 
+several small bone fragments retrieved from the 
+centre of the deposit.
+315 F Basal f of [313]. A greyish blue sandy silt with 
+very rare charcoal flecks.
+9
+APPENDIX 2: OASIS FORM
+10
+<Node id="19365"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="key">
+<Annotation Id="1" Type="Negation" StartNode="4115" EndNode="4188">
+</Annotation>
+<Annotation Id="4" Type="Negation" StartNode="10324" EndNode="10370">
+</Annotation>
+<Annotation Id="5" Type="Negation" StartNode="13091" EndNode="13184">
+</Annotation>
+<Annotation Id="6" Type="Negation" StartNode="15362" EndNode="15458">
+</Annotation>
+<Annotation Id="7" Type="Negation" StartNode="11286" EndNode="11330">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="19365">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

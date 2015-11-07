@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='ISO8859-1'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/media/Data/Extracting_GreyLit/Extraction_Development/OPTIMA_Complete/documents/evaluationCorpus/heritage1-11948.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>IFA
+RE
+G IS ER
+E
+T
+D
+RO
+ON
+NA
+A
+I
+I
+G
+ST
+HERITAGE NETWORKHERITAGE NETWORK
+1 BELL STREET
+Feltwell, Norfolk
+Archaeological Evaluation Report
+HN525
+THETHE HERITAGE NETWORKHERITAGE NETWORK LTDLTD
+Registered with the Institute of Field Archaeologists as an Archaeological Organisation
+Archaeological Director: David Hillelson, BA MIFA
+11 F11 FURMSTONURMSTON CCOURTOURT, I, ICKNIELDCKNIELD WWAYAY, L, LETCHWORTHETCHWORTH SG6 1UJSG6 1UJ
+TTELEPHONEELEPHONE: (01462) 685991 F: (01462) 685991 FAXAX: (01462) 685998: (01462) 685998
+1 BELL STREET
+Feltwell, Norfolk
+Project Ref.: HN525
+HER Ref.: 41934 FWL
+Archaeological Evaluation Report
+Prepared on behalf of John Leamon, Esq
+by
+Geoff Saunders, BA
+Report No.298
+June 2005
+(Revised August 2005)
+© The Heritage Network Ltd
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page i
+Contents
+Summary........................................................................................................................................................Page i
+Section 1 Introduction .................................................................................................................................................Page 1
+Section 2 Fieldwork......................................................................................................................................................Page 2
+Section 3 Discussion.................................................................................................................................................Page 10
+Section 4 Sources Consulted.................................................................................................................................. Page 12
+Section 5 Illustrations.............................................................................................................................following Page 12
+The cover photograph shows Bell Street, looking west (from an undated postcard provided by Mr C. Cock ­ www.feltwell.org.uk)
+Acknowledgements
+The fieldwork for this project was carried out by Abigail Rothwell and Geoff Saunders, and the finds assessment
+was undertaken by Helen Ashworth. The report was written and illustrated by Geoff Saunders, and edited by David
+Hillelson.
+The Heritage Network would like to express its thanks to John Leaman, P J Commercials; Kazimierz
+Swierdzewski, Ski Property Management; Jan Allen, Norfolk HER and Andy Hutcheson, Senior Archaeologist,
+Norfolk Landscape Archaeology, for their co-operation and assistance in the execution of this project.
+Summary
+Site name and address: 1 Bell Street, Feltwell, Norfolk
+County: Norfolk District: Kings Lynn West Norfolk
+Village/town: Feltwell Parish: Feltwell
+Planning reference: 04/1743/O NGR: TL 715 907
+Client name and address: John Leaman Esq., c/o Ski Property Management, 9 Park View, Weeting,
+Brandon, Suffolk.
+Nature of work: New dwellings Present land use: Commercial and Domestic
+Size of affected area: c.665m2
+Size of area investigated: c.32m2
+Site Code: HN525 HER reference: 41934 FWL
+Organisation: Heritage Network Site Director: David Hillelson
+Type of work: Evaluation Archive location: Norfolk Museums Service
+Start of work 26th
+May 2005 Finish of work 27th
+May 2005
+Related SMR Nos.: N/a Periods represented: R-B, Medieval, Modern
+Previous summaries/reports: N/a
+Synopsis:
+In order to determine the archaeological risk posed by a proposal to construct three new dwellings at 1 Bell Street,
+Feltwell, the Heritage Network was commissioned by the developers to undertake a programme of archaeological
+evaluation.
+Two trenches were excavated measuring c.4.0 x 4.4m and 3.4 x 4.3m respectively. A series of boundary or
+drainage ditches of Romano-British date were revealed in Trench 1. In Trench 2 the foundations of a 19th
+century
+structure, probably that depicted on the Tithe map of 1837, were revealed.
+<Node id="3867"/>Although no direct evidence for pre-19th
+century occupation on the site was revealed<Node id="3951"/>, the presence of a significant
+amount of heavily abraded Romano-British CBM in the drainage ditches suggests the presence of at least one
+substantial structure of this period in the vicinity. This may be associated with the villa located 215m to the NE, or
+the late Roman occupation identified c. 115m to the N.
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page 1
+1. Introduction
+1.1 This report has been prepared at the request of Ski Property Management, acting on
+behalf of John Leamon Esq, as part of the archaeological evaluation of a proposed
+development site located at 1 Bell Street, Feltwell, Norfolk. Planning permission granted for
+the development by the Borough Council of Kings Lynn and West Norfolk (KLBC) under
+application no. 04/1743/O, has been subject to a standard archaeological condition, in
+accordance with the provisions of the DETR's Planning Policy Guidance Note 16 (PPG16).
+The scope of the required work followed the Brief for Archaeological Evaluation by Trial
+Trenching issued by Norfolk Landscape Archaeology (NLA), acting as advisers to KLBC (ref.
+AH 13/12/2004). A full specification for the work carried out was contained in the Heritage
+Network's approved Project Design dated April 2005.
+1.2 The site is located between Bell Street and The Beck, immediately to the east of the
+parish church of St Mary's, centred on NGR TL 715 907 (see Figure 1). The present
+application proposes the construction of new dwellings in three plots, the development of the
+remainder of the site being currently underway, having been covered by a separate planning
+application (see Figure 2).
+1.3 The site lies within the historic core of Feltwell and it is considered that the adjacent
+churchyard could have extended across the study area in earlier times. It is also possible that
+the remains of buildings formerly existing along the Bell Street frontage could be of
+archaeological interest with the potential to provide information on the medieval development
+of the village.
+1.4 The aim of the evaluation has been to consider the location, extent, date, character,
+condition, significance and quality of any remains that are liable to be threatened by the
+development, and to provide a local and regional, archaeological and historical context for
+them, in accordance with the current published regional research agenda (Glazebrook 1997,
+Brown and Glazebrook 2000), if they were discovered. The project is considered to have the
+potential to contribute specifically to the study of settlement morphology during the medieval
+and post-medieval periods.
+1.5 The present report has been prepared in order to provide the planning authority with
+sufficient data to allow it to consider the archaeological implications of the proposed
+development, and to determine what further mitigation measures, if any, may be required.
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page 2
+2. Fieldwork
+TOPOGRAPHY AND GEOLOGY
+2.1 The site comprises a narrow strip of land between Bell Street and The Beck, currently
+occupied by both domestic and commercial structures. The ground level falls gradually across
+the site from 8.09mOD on the Bell Street frontage to 6.02mOD on The Beck.
+2.2 The underlying geology of the area consists of chalk.
+ARCHAEOLOGICAL BACKGROUND
+2.3 The study area is located within a well-documented archaeological landscape. The
+County Sites and Monuments Record (SMR) has recorded finds of prehistoric, Roman and
+medieval date from within a 500m radius of the present site.
+2.4 Only limited evidence of prehistoric date has been recorded from the vicinity of the
+site. A number of flint blades of late Neolithic date (SMR 24142) were found in 1987 in the
+garden of 14 H Street, approximately 180m to the west. A Bronze Age pit was revealed
+during excavations on the site of the Roman bath house (SMR 4921) approximately 215m to
+the NNE.
+2.5 Considerable evidence for Roman occupation has been identified in the immediate
+vicinity of the study area. Excavations at Glebe Farm in the 1960s found part of a Roman villa
+and associated bath house (SMR 4921) approximately 215m to the NNE. An archaeological
+evaluation took place to the rear of The Old School, The Beck (SMR 40913) approximately
+115m to the north of the present site. in October and November, 2004. This work revealed
+numerous archaeological features, principally pits and ditches, though the remains of 3 walls
+were also recorded. The finds dated to the 3rd
+/4th
+centuries AD suggesting that this site was
+contemporary with the villa at Glebe Farm. Roman pottery sherds, including grey wares and
+Nene Valley colour-coated wares, was also found during landscaping works approximately
+280m to the northeast (SMR 16271).
+2.6 The present site is located in the core of the medieval village, immediately adjacent to
+St Mary's Church, which lies approximately 50m to the west (SMR 4940) and close to St
+Nicholas' Church (SMR 4939) approximately 320m to the northwest. Scattered finds of
+medieval date have been recorded from the immediate vicinity, including a Nuremburg jetton
+(SMR 33451) approximately 270m to the northeast; medieval pottery from a nearby garden
+(SMR 35256) approximately 230m to the south and an unusual Middle Saxon pin shaft (SMR
+28788) approximately 480m to the northwest.
+2.7 A number of undated human remains have also been recorded from the vicinity of the
+study area. In 1969 several skeletons were dug up in a garden close to St Nicholas' Church
+(SMR 4930) approximately 310m to the northwest. Other skeletons have been found at Manor
+Farm (SMR 4931) approximately 420m to the northwest and a single inhumation was found
+to the south of Bell Street, (SMR 4929) approximately 135m to the west.
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page 3
+2.8 The Tithe Map of 1837 shows that the Bell Street frontage was built up at that time, but
+the Beck frontage was open ground or garden.
+2.9 The first edition Ordnance Survey of 1888 shows that the Bell Street frontage remained
+built up, and the hall which occupies the eastern half of the present Beck frontage had been
+built by that time.
+METHODOLOGY
+2.10 All work was carried out in accordance with the approved Project Design, current
+health and safety legislation, and IFA standards.
+2.11 The trenches were located by triangulation from known points using fibreglass tape
+measures.
+2.12 Two trenches were opened using a tracked mini-digger fitted with a 1.3m wide
+toothless bucket, under close archaeological supervision (see Figure 2). Spoil from the
+machining was inspected for archaeological artefacts. Trenches were machined to the first
+significant archaeological horizon.
+2.13 The trenches were cleaned by hand, and all potential archaeological features and
+deposits were sampled to ascertain their nature, depth, date, and quality of preservation.
+2.14 All identified contexts were photographed and recorded using the appropriate pro-
+forma. Scaled plans and sections were drawn on drafting film at scales of 1:10 and 1:50.
+RESULTS
+Trench 1 (see Figure 3)
+2.15 Trench 1 was located on The Beck frontage in the northern half of the site and was
+aligned approximately north-west to south-east. The trench measured 4.0 x 4.4m and was
+excavated to a maximum depth of 1.40m.
+2.16 The stratigraphy in this trench consisted of three layers above the natural geology. A
+layer of loose, dark brown (10YR 3/3), silty clay topsoil lay over a firm, dark yellowish
+brown (10YR 3/4), silty clay subsoil. Beneath this a layer of firm, light grey (10YR 7/1),
+waterborne silt (108) was observed over the natural chalk geology.
+2.17 The trench contained two service trenches for a live water main and sewer pipe
+respectively. The presence of these services limited the area in the trench in which the full
+depth of overburden could be removed.
+2.18 Linear feature [101] was observed cutting into the natural chalk, orientated N ­ S
+towards the south-east half of the trench. This feature was greater than 0.70m wide and
+approximately 0.29m deep, with steep straight sides and a narrow but flat base. <Node id="12084"/>The primary
+plastic, grey, chalky clay f (102) yielded no datable artefacts<Node id="12159"/>. The secondary plastic, dark
+grey, silty clay f (103) yielded a fragment of opus signinum, several fragments of Romano-
+British CBM, and medieval peg tile. The feature may represent a boundary or drainage ditch,
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page 4
+the abraded and fragmentary nature of the material recovered suggests it may have been
+bought onto the site by water flowing along the ditch.
+2.19 Linear feature [104] was observed cut into the natural chalk, orientated NE ­ SW
+across centre of the trench. The feature was 0.85m wide and approximately 0.65m deep, with
+steep very slightly convex sides and a flat base. The solitary firm plastic, dark grey, slightly
+silty clay f yielded a single small, abraded, fragment of Romano-British pottery, along with
+several heavily abraded fragments of potentially Romano-British CBM. Several fragments of
+mussel shell were also observed but were not retrievable due to their very fragmentary nature.
+The feature may represent a boundary or drainage ditch, the abraded and fragmentary nature
+of the material recovered suggests it may have been bought onto the site by water flowing
+along the ditch. This feature has a junction with ditch [101], it was not possible to establish a
+stratigraphic relationship between the two features due to the similarity of the fills.
+2.20 Linear feature [106] was observed cut into the natural chalk, orientated NE ­ SW
+across the north-west half of the trench. The feature was greater in width than 0.65m and
+approximately 0.40m deep, with a steep concave south-east side and a steep north-west side
+with one step. The base of the feature was slightly rounded. The solitary plastic, greyish
+brown, silty clay f yielded a fragment of opus signinum, and Romano-British CBM. The
+feature may represent a boundary or drainage ditch, the abraded and fragmentary nature of the
+material recovered suggesting that it may have been bought onto the site by water flowing
+along the ditch.
+Recorded contexts
+Context Type Description Dimensions (m)
+101 Cut Linear cut feature with a steep straight sides and a narrow
+flat base, aligned N to S. Boundary or drainage ditch.
+Length: 1.53m+
+Width: 0.70m
+Depth: 0.29m
+102 F Plastic, grey (2.5Y 5/1), chalky clay with very occasional
+small stones. Primary f of [101].
+Length: 1.53m+
+Width: 0.70m
+Depth: 0.16m
+103 F Plastic, dark grey (2.5Y 4/1), silty clay with very
+occasional large stones. Secondary f of [101].
+Length: 1.53m+
+Width: 0.70m
+Depth: 0.13m
+104 Cut Linear cut feature with steep very slightly convex sides
+and a flat base, aligned NE ­ SW. Boundary or drainage
+ditch.
+Length: 1.30m+
+Width: 0.85m
+Depth: 0.65m
+105 F Firm plastic, dark grey (2.5Y 4/1), slightly silty clay with
+frequent chalk and charcoal flecks and moderate small
+sub-rounded stones. F of [104].
+Length: 1.30m+
+Width: 0.85m
+Depth: 0.65m
+106 Cut Linear cut feature with a steep slightly concave SE side
+and a steep NW side with one step. Slightly rounded base,
+aligned NE ­ SW. Boundary or drainage ditch.
+Length: 1.30m+
+Width: 0.65m+
+Depth: 0.40m
+107 F Plastic, greyish brown (2.5Y 5/2), silty clay with frequent
+chalk and charcoal flecks and moderate large stones and
+flints. F of [106].
+Length: 1.30m+
+Width: 0.65m+
+Depth: 0.40m
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page 5
+Context Type Description Dimensions (m)
+108 Layer/
+deposit
+Firm, light grey (10YR 7/1), waterborne silt. Deposit
+which sits over and seals the three ditches observed in this
+trench.
+0.50m thick
+109 F Number assigned to fills of ditches [101] [104]
+observed in north-east trench section. Same as (103) and
+(105).
+-
+Trench 2 (see Figures 2 3)
+2.21 Trench 2 was located on the Bell Street frontage in the southern half of the site and was
+aligned approximately north-east to south-west. The trench measured 3.4 x 4.3m and was
+excavated to a maximum depth of 1.44m.
+2.22 The stratigraphy in this trench consisted of a layer of modern shingle and aggregate
+laid directly onto the natural chalk. In the north-west end of the trench the shingle had been
+laid directly onto the concrete footing and surviving two courses of a modern boundary wall
+[207].
+2.23 Several elements of a former structure [206] on the Bell Street frontage were observed
+in the base of the trench. These elements include foundation cut [201], brick wall foundation
+[203], clunch wall foundation [204], and brick floor [205]. The size of the structure was
+unclear as it extended beyond the south-east and south-west trench limits and had been
+truncated by modern wall and footing [207] on the north-west side. A sondage excavated
+through brick floor [205], demonstrated that disturbance associated with the structure
+continued to a depth of approximately 1.40m. The brick used in the footings, along with CBM
+fragments recovered from the f of the foundation cut, suggest a 19th
+century date for the
+structure. The structure is likely to have heavily disturbed or destroyed earlier archaeological
+evidence in this part of the site.
+Recorded contexts
+Context Type Description Dimensions (m)
+201 Cut Foundation cut for structure [206], steep straight sides and
+a flat base.
+Length: 2.30m+
+Width: 1.25m+
+Depth: 0.24m
+202 F Loose, brown (7.5YR 5/3), mixed silt and chalk fragments
+with occasional small flints.. F of [201].
+Length: 2.30m+
+Width: 1.25m+
+Depth: 0.24m
+203 Wall Brick wall foundation. The foundation is two courses
+thick with a substantial cavity between the courses,
+aligned NW ­SE.
+Length: 1.25m+
+Width: 0.75m
+Depth: 0.58m
+204 Wall Wall foundation constructed of large blocks of chalk,
+alignment turns at a right angle from NE ­ SW to NW ­
+SE.
+Length: 2.95m+
+Width: 0.95m
+Depth: 0.58m
+205 Brick
+floor
+Brick floor of structure [206]. Length: 1.80m+
+Width: 0.95m+
+Depth: 0.08m
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page 6
+Context Type Description Dimensions (m)
+206 Structure Number assigned to all the elements of the structure. Length: 3.00m+
+Width: 2.50m+
+Depth: 1.40m
+207 Wall Modern boundary wall and concrete foundation. Length: 4.30m+
+Width: 0.95m
+FINDS CONCORDANCE
+Pottery CBM An.bone Shell Fe object Stone Op Sig
+Ctxt Wt. No. Wt. No. Wt. No. Wt. No. Wt. No. Wt. No. Wt. No.
+103 275 13 40 4 30 1
+105 5 1 540 25 90 7 495 2 55 3
+107 205 5 115 7 45 1
+108 25 1 450 2 360 6 10 4
+Tr1 U/S 135 4 535 10 80 5 35 1
+202 200 2 320 20 30 3 10 2
+203 5 1 205 2
+Beneath 205 145 3
+Total 170 7 2205 57 1150 52 40 7 250 5 495 2 130 5
+ARTEFACTS
+Pottery
+2.24 A total of 7 pottery sherds, weighing 170g, was recovered from 1 unstratified and 3
+stratified contexts during the present investigation. The pottery ranged in date from the
+Roman period to the modern period. The assemblage consists mostly of small, abraded,
+undiagnostic bodysherds.
+2.25 The earliest pottery recovered consisted of a single small, abraded, undiagnostic,
+Romano-British bodysherd. This was recovered from the f of ditch [104]. Despite several
+fragments of Romano-British CBM and Opus Signinum being recovered, this was the only
+Romano-British pottery observed during the fieldwork.
+2.26 <Node id="19263"/>No evidence of Anglo-Saxon pottery<Node id="19297"/> was recovered indicating a possible hiatus in
+activity in the area between the Romano-British period and the early Medieval period.
+Alluvial deposit (108) over the ditches observed in Trench 1 yielded a single, abraded,
+undiagnostic bodysherd probably of medieval date, the sherd may form part of a shallow dish.
+Part of a jug handle of 12th
+-13th
+century date was also recovered unstratified from Trench 1.
+2.27 Victorian and modern activity on the site was indicated by several sherds of white and
+brown glazed pottery, recovered unstratified from Trench 1 and from contexts associated with
+structure [206].
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page 7
+2.28 The small and abraded nature of the sherds indicate that this material was not in its
+primary place of deposition. The small size of the assemblage does not suggest occupation on
+the site, but does indicate activity in the vicinity of the site during both the Roman and
+Medieval periods.
+Recommendations
+2.29 Given the small size of the assemblage, the abraded nature of the sherds, and that the
+material is unlikely to be in its primary place of deposition, no further work is proposed on
+this assemblage.
+Ceramic Building Material (CBM)
+2.30 A total of 57 CBM fragments, weighing 2205g, was collected from 5 stratified and 1
+unstratified contexts during the present investigations. The bulk of the assemblage consisted
+of small and heavily abraded undiagnostic fragments of Romano-British date.
+2.31 The majority of the abraded and undiagnostic material recovered from the three ditches
+within Trench 1 has tentatively been dated to the Romano-British period, the presence of
+Romano-British pottery and opus signinum makes this the most likely date. A fragment of
+Medieval peg tile recovered from f (103) in ditch [101] is likely to be intrusive. Further
+Romano-British CBM fragments were recovered from the alluvial deposit (108) which sealed
+the ditches.
+2.32 A further fragment of redeposited heavily abraded Romano-British CBM was
+recovered from the f of foundation cut [201] in Trench 2. This context also yielded a
+modern fragment of burnt brick.
+2.33 The Romano-British material, though heavily abraded, is present in a significant
+enough quantity to indicate a structure of this date in the vicinity of the site. The abraded
+nature of the material indicates that it is not in its primary place of deposition, indicating the
+proximity of the Romano-British activity may not be close. <Node id="21787"/>The lack of equally significant
+amounts of Romano-British pottery may indicate that the structure was not used for domestic
+occupation<Node id="21921"/>.
+Recommendations
+2.34 The majority of the assemblage consists of small, heavily abraded fragments which are
+unlikely to be in their primary place of deposition. On this basis no further work is proposed
+on this material.
+Iron Objects
+2.35 A total of 5 iron objects, weighing 250g, was recovered from 2 stratified and 1
+unstratified contexts during the present investigations.
+2.36 A single object, consisting of two highly corroded strips of iron riveted together,
+possibly representing a pair of scissors or similar item, measuring approximately 93mm by
+60mm by a maximum depth of 8mm, was recovered unstratified in Trench 1.
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page 8
+2.37 A small semi-circular disc of corroded iron, possibly part of a coin, token, or button,
+with a diameter of 22mm and a depth of 1mm, was recovered from foundation cut f (202)
+which has been dated to the 19th
+century. A small curving strip of iron, possibly a hook,
+measuring 33mm by 28mm by a maximum depth of 9mm, was recovered from the same
+context.
+2.38 A flat heavily corroded curving strip of iron, possibly part of a plough blade,
+measuring 153mm by 71mm by a maximum depth of 9mm, was recovered from within wall
+foundation [203]. A heavily corroded iron nail, measuring 77mm long with a diameter at the
+head of 12mm, was recovered from the same context.
+Recommendations
+2.39 No further work is proposed on this material.
+Stone
+2.40 A total of 2 pieces of stone, weighing 495g, were recovered from 1 stratified context
+during the investigation. The two small fragments, which both show signs of being worked,
+were recovered from f (105) in ditch [104]. The CBM recovered from this f indicates that
+it is likely that the stone may also have been used in a structure.
+Recommendations
+2.41 Given its small size and undiagnostic nature, no further work is proposed on this
+assemblage.
+Opus Signinum
+2.42 A total of 5 fragments of opus signinum, weighing 130g, was collected from 3
+stratified contexts. The fragments are small and abraded and were collected from the fills of
+the three ditches observed in Trench 1.
+2.43 The presence of opus signinum, along with the Romano-British CBM recovered from
+the same features, gives further indication of at least one substantial structure of this period in
+the vicinity of the site.
+Recommendations
+2.44 Given the small size of the assemblage no further work is recommended.
+ECOFACTS
+Animal bone
+2.45 A total of 52 animal bone fragments, weighing 1150g, was collected from 6 stratified
+and 1 unstratified contexts. Most of the bone recovered, is in poor condition and is
+fragmentary in nature.
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page 9
+2.46 Species represented include larger animals such as cattle or horse, medium-sized
+animals such as sheep, goat and pig, as well as smaller fowl such as chicken or duck.
+Recommendations
+2.47 The incomplete nature of the bone fragments means that further analysis is unlikely to
+yield significant information.
+Shell
+2.48 A total of 7 shells, weighing 40g, was collected from 2 stratified and 1 contexts. The
+material consisted of oyster and mussel shells. The majority of the shells are poorly preserved
+and fragmentary in nature.
+2.49 The assemblage was recovered from the light grey alluvial deposit (108) above the
+ditches in Trench 1 and from the f (202) of the foundation cut [201] in Trench 2. Further
+shells were present in the fills of the ditches in Trench 1.
+Recommendations
+2.50 Given the fragmentary nature and small size of the assemblage, no further work is
+proposed on this material.
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page 10
+3. Discussion
+3.1 Considerable evidence for Romano-British settlement has been recorded from the
+vicinity of the present site. A villa and associated bath house (SMR 4921) was excavated at
+Glebe Farm, approximately 215m to the northeast in the 1960s. Recent archaeological
+evaluation to the rear of The Old School House, The Beck, (SMR 40913) approximately
+115m to the north, has revealed evidence for late Roman occupation. Numerous features,
+chiefly pits and ditches, were recorded, which contained finds dated to the 3rd
+/ 4th
+centuries
+AD.
+3.2 The present evaluation revealed three ditches, [101], [104], and [106]. Later activity on
+the site is demonstrated by the foundations of structure [206].
+3.3 Ditches [101], [104], and [106] all had similar characteristics and were located within
+close proximity to each other. They are likely to represent a series of boundary or drainage
+ditches. Waterborne alluvial deposit [108] sealed all three ditches, suggesting that the area
+suffered with flooding in the past. This emphasises the likelihood the ditches had a drainage
+function. All three of the ditches produced a significant amount of heavily abraded Romano-
+British CBM, which, together with the opus signinum recovered, indicates the possible
+presence of at least one substantial Romano-British structure in the vicinity.
+3.4 The depth of overburden present in Trench 1 has preserved the ditches despite the
+presence of a live water main and a sewer pipe.
+3.5 The foundations for a structure [206] along with its brick floor [205] observed in
+Trench 2 are likely to be the remains of a small house or terrace of cottages on the Bell Street
+frontage. This frontage was certainly built up by the mid-19th
+century and may have been
+occupied earlier. It is shown on the Tithe map of 1837 and the first edition of the Ordnance
+Survey, and also on early photographs of Bell Street. The bricks recorded in the evaluation
+trench suggest a 19th
+century date for the structure.
+3.6 A sondage excavated in Trench 2 demonstrated that the disturbance caused by the
+structure, along with modern boundary wall [207], has removed any archaeological evidence
+of earlier activity on the plot.
+Conclusions
+3.7 Although the trench was small and highly disturbed by services, the archaeological
+evaluation has demonstrated the presence of boundary and drainage features of Romano-
+British date within the current study area.
+3.8 No direct occupation evidence was recorded although finds of Romano-British ceramic
+building material and opus signinum were collected from the fills of all three ditches,
+indicating that there may have been a substantial structure in the vicinity of the site. Certainly,
+a number of pits and ditches of a similar date were recorded during evaluation of The Old
+School site to the north and significant Roman occupation evidence exists within 500m of the
+study area. As the finds assemblage was badly abraded, however, and very few pottery sherds
+or other domestic finds, such as animal bone or marine shell, were collected, it is suggested
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page 11
+that these may represent deliberate backfilling of the ditches, rather than the presence of a
+building.
+3.9 Earlier stratigraphy on the site in the area of the Bell Street frontage has been destroyed
+by the foundations of a 19th
+century structure.
+3.10 <Node id="29030"/>Although no direct evidence of occupation on the site prior to the late post-medieval
+period was observed<Node id="29135"/> in the course of the evaluation, there remains a possibility that the
+development of the site could disturb features and deposits of Roman date. These could
+contribute to our understanding of the development of rural settlement during the Roman
+period and offer a limited opportunity to explore further the research topics for the Romano-
+British period defined in the regional research agenda (Brown and Glazebrook 2000, 19-20).
+It is not considered likely that such remains would be of a quality to warrant preservation in
+situ.
+CONFIDENCE RATING
+3.11 During the course of the fieldwork, the conditions were generally acceptable for the
+identification of potential features and deposits, and for their investigation.
+3.12 There are no further circumstances which would lead to a confidence rating for the
+present evaluation which is less than High.
+1 Bell Street, Feltwell Archaeological Evaluation Report
+HN525\report.doc Page 12
+4. Sources Consulted
+Archives
+Norfolk County HER
+Bibliography
+Brown, N. Glazebrook, J. 2000. Research and Archaeology: a Framework for the Eastern
+Counties, 2. research agenda and strategy. East Anglian Archaeology, Occ.Paper no.8.
+Hillelson, D. 2004. 1 Bell Street, Feltwell, Norfolk. Project Design: Archaeological
+Evaluation. Heritage Network, April 2005.
+Hutcheson, A.R.J. 2004, Brief for Archaeological Evaluation by Trial Trenching at 1 Bell
+Street, Feltwell, Norfolk. Norfolk Landscape Archaeology.
+Web Sites
+http://ads.ahds.ac.uk Archaeology Data Service
+www.feltwell.org.uk Feltwell Tithe Map, 1837
+www.old-maps.co.uk OS First edition 1888 (571448, 290680)
+5. Illustrations
+Figure 1............................................................................... Site location
+Figure 2..................................................................................Site layout
+Figure 3..........................................................Trench plans and sections
+Figure 4......................................................................... Feature sections
+St Mary's
+Church
+War Meml
+Church
+Sun
+Sch
+Hall Hall
+THE BECK
+BELL STREET
+BM
+7.92m
+907
+908
+715 716TL
+Site location
+HN525
+Reproduced from OS mapping with the permission of the controller of Her Majesty's Stationery Office, Licence no.AL100014861
+Hunstanton
+Feltwell
+King's Lynn
+1 Bell Street, FeltwellTHE HERITAGE NETWORK LTDTHE HERITAGE NETWORK LTD
+Scale 1:1250
+Figure 1
+Norwich
+Plot 1
+Plot 2
+Plot 3
+Proposed new build
+Tr1
+Tr2
+Development started
+Scale 1:500
+Figure 2
+Trench location
+THE HERITAGE NETWORK LTDTHE HERITAGE NETWORK LTD HN5251 Bell Street, Feltwell
+Reproduced from OS mapping with the permission of the controller of Her Majesty's Stationery Office, Licence no.AL52036A
+Scale 1:75
+Figure 3
+Trench plans and sections
+THE HERITAGE NETWORK LTDTHE HERITAGE NETWORK LTD 1 Bell Street, Feltwell HN525
+NW SE
+NW SE
+Live Water Main
+Live Sewer
+Southwest facing section of Trench 1
+Plan of Trench 2
+Southwest facing section of Trench 2
+Plan of Trench 1
+0 3m
+Topsoil
+Subsoil
+(108)
+(109)
+(108)
+Natural
+Concrete
+Modern shingle
+Natural
+207
+201
+Clunch
+wall 204
+Brick
+floor 205
+Brick
+wall 203
+Sondage
+106 104
+101
+8.06
+7.51
+7.63
+7.37
+7.63
+8.28
+8.21
+8.21
+8.13
+6.84
+6.02
+5.68
+5.10
+5.67
+4.74
+4.43
+4.73
+4.34
+4.79
+4.65
+5.00
+6.02
+8.17m 8.28m
+5.99m
+6.14m
+Natural
+THE HERITAGE NETWORK LTDTHE HERITAGE NETWORK LTD 1 Bell Street, Feltwell HN525
+Feature sections
+Scale 1:10
+Figure 4
+North facing section through ditch [101]
+E W
+(103)
+(102)
+101
+Northeast facing section through ditch [104]
+Northeast facing section through ditch [106]
+North facing section through [201]
+SE
+NW
+SE NW
+SW NE
+104
+106
+201
+(105)
+(202)
+(107)
+0 50cms
+7.63m
+4.74m
+4.73m
+4.79m
+<Node id="32778"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="key">
+<Annotation Id="1" Type="Negation" StartNode="3867" EndNode="3951">
+</Annotation>
+<Annotation Id="3" Type="Negation" StartNode="19263" EndNode="19297">
+</Annotation>
+<Annotation Id="4" Type="Negation" StartNode="21787" EndNode="21921">
+</Annotation>
+<Annotation Id="5" Type="Negation" StartNode="29030" EndNode="29135">
+</Annotation>
+<Annotation Id="6" Type="Negation" StartNode="12084" EndNode="12159">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="32778">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

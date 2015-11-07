@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='ISO8859-1'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/media/Data/Extracting_GreyLit/Extraction_Development/OPTIMA_Complete/documents/evaluationCorpus/essexcou1-10460.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>1518
+NEW POLICE STATION
+SMITHS FARM
+GREAT DUNMOW
+ESSEX
+ARCHAEOLOGICAL EVALUATION BY
+TRIAL TRENCHING
+Field Archaeology Unit
+September 2005
+NEW POLICE STATION
+SMITHS FARM
+GREAT DUNMOW
+ESSEX
+ARCHAEOLOGICAL EVALUATION BY
+TRIAL TRENCHING
+Prepared By:
+Andrew Robertson
+Position:
+Project Officer
+Signature:
+Date:
+Checked By:
+Patrick Allen
+Position:
+Project Manager
+Signature:
+Date:
+Approved By:
+Mark Atkinson
+Position:
+Unit Manager
+Signature:
+Date:
+Document Ref. 1518Rep.doc
+Report Issue Date September 2005
+Circulation Essex Police
+ECC Historic Environment Management
+ECC Historic Environment Record
+As part of our desire to provide a quality service, we would welcome any comments you may
+have on the content or the presentation of this report.
+Please contact the Archaeological Fieldwork Manager, at the
+Field Archaeology Unit,
+Fairfield Court, Fairfield Road, Braintree, Essex CM7 3YQ
+Tel: 01376 331470
+Fax: 01376 331428
+© Field Archaeology Unit, Essex County Council, c/o County Hall, Chelmsford
+Essex CM1 1LF
+CONTENTS
+Page No.
+SUMMARY 1
+1.0 INTRODUCTION 2
+2.0 BACKGROUND 2
+2.1 Location and topography
+2.2 Geology
+2.3 History and archaeology
+3.0 AIMS AND OBJECTIVES 3
+4.0 METHOD 3
+5.0 FIELDWORK RESULTS 3
+6.0 FINDS AND ENVIRONMENTAL MATERIAL 6
+7.0 CONCLUSIONS 6
+Acknowledgements 7
+BIBLIOGRAPHY 7
+APPENDICES
+APPENDIX 1: FIELDWORK DATA 8
+APPENDIX 2: FINDS AND ENVIRONMENTAL MATERIAL 8
+APPENDIX 3: ARCHIVE INDEX 9
+APPENDIX 4: EHER SUMMARY 10
+FIGURES
+Figure 1 ­ Site Location 4
+NEW POLICE STATION
+SMITHS FARM
+GREAT DUNMOW
+ARCHAEOLOGICAL EVALUATION
+TRIAL TRENCHING
+SUMMARY
+Client: Essex Police
+FAU Project No.: 1518
+NGR: TL 6367 2072
+Planning Application No.:UTT/0669/04
+Site Code: GDSF 05
+Date of Fieldwork: 25th to 26th August 2005
+An archaeological evaluation was carried out by ECC FAU on behalf of Essex Police on the site of
+a proposed new police station at Smiths Farm, on the south-eastern outskirts of Great Dunmow,
+Essex. The site was formerly rough pasture. The Chelmsford Road, which is thought to be the
+line of a Roman road, runs immediately to the east of the site.
+Five 30m x 2m trenches were excavated within the footprint of the proposed building and the area
+of associated carpark. Only one archaeological feature was revealed, a ditch containing
+prehistoric pottery dating to the Late Bronze Age or Early Iron Age along with burnt flints and flint
+flakes. No other archaeological features were identified, although a number of prehistoric pottery
+sherds and flint flakes were discovered on the surface of the natural geology.
+<Node id="2539"/>Although the results of the evaluation do not suggest intensive landscape use during the Late
+Bronze/ Early Iron Ages<Node id="2656"/> it is clear from this and other nearby investigations that a focus for the low
+level activity seen may well lie in the general vicinity. <Node id="2794"/>The absence of Roman or medieval remains
+indicates that this site was well outside the settlements of these periods<Node id="2909"/>. <Node id="2911"/>The low quantity and
+quality of the remains encountered on the site suggests that there is only a minor archaeological
+implication<Node id="3041"/> for the location of the proposed police station here.
+1
+New Police Station, Smiths Farm, Great Dunmow
+Archaeological Evaluation Report
+Prepared for Essex Police
+1.0 INTRODUCTION
+A planning application was made by Essex Police for the construction of a new police station at
+Smiths Farm, Great Dunmow. The Historic Environment Management (HEM) team of Essex
+County Council advised the local planning office that an archaeological condition be placed on the
+application, in line with PPG 16 (DoE 1990). Consequently, Essex County Council Field
+Archaeology Unit (FAU) was commissioned to undertake an archaeological evaluation by trial
+trenching on the footprint of the building and the area of the associated car park. This report
+presents the results of the evaluation. The archive w be deposited with Saffron Walden Museum.
+2.0 BACKGROUND
+2.1 Location and Topography (Figure 1)
+The proposed Police Station site comprises a roughly rectangular plot covering approximately
+6000m² in the southeast corner of the field (NGR TL 6367 2072, centred). The east side of the site
+is bounded by the Chelmsford Road and the south by Hoblongs Industrial Estate, to the north and
+west is open scrub and grassland. Prior to the commencement of works the site was rough
+pasture with no signs of cultivation in the recent past.
+In general the land around the site slopes down to the southeast, with the area of the site being the
+lowest part of the field lying at approximately 50.2m OD.
+2.2 Geology
+Topsoil to a depth of c. 0.2m covered the whole site; below this was a light brown silty sand subsoil
+which ranged in depth from c. 0.2m to c. 0.5m. The undisturbed natural was orangey brown silty
+sand. The drift geology of the area consists of Boulder Clay.
+2.3 History and Archaeology
+Great Dunmow is a known Roman `small town' which was situated on the junction of Stane Street
+running east­west and the north­south Great Chesterford to Chelmsford road. It is postulated that
+the town covered an area of 10-12 hectares (Wickenden 1988; Havis 2005), most of which lies
+under the present town.
+The site is located outside the probable limits of the Roman town, and an early Roman cremation
+cemetery has been excavated on the western side of the Roman Dunmow-Chelmsford road at
+Haslar's Lane approximately 0.5km to the north of the present site (Hickling 2003). While no
+archaeological investigation appears to have taken place in the immediate vicinity of the site there
+are a number of entries on the Essex Heritage Environment Record (HER) for the general area.
+2
+New Police Station, Smiths Farm, Great Dunmow
+Archaeological Evaluation Report
+Prepared for Essex Police
+These primarily relate to the archaeological investigation associated with the construction of the
+new A120 road or to the Roman town of Dunmow. These are predominantly Roman, although
+HER 19149 is an unurned cremation that is thought to be prehistoric in date.
+3.0 AIMS AND OBJECTIVES
+The general aim of the project was to `...determine, the location, extent, date, character, condition,
+significance and quality ...' of the remains. More specific aims were to:
+· Determine if any prehistoric evidence is located within the development area
+· Determine if there is any Roman ribbon development or cemetery evidence alongside the
+Roman road
+· Determine whether any evidence of medieval activity is located within the development
+area
+· Examine the likely impact of the proposed development on the archaeological resource
+4.0 METHOD
+The topsoil, and subsoil, was removed from the trenches using a JCB excavator fitted with a
+toothless ditching bucket, under archaeological supervision. All archaeological features and
+deposits were then excavated by hand using standard ECC FAU procedures, with plans being
+drawn at 1:20 and sections at 1:10. Finds were collected for dating and characterisation purposes.
+Sections of all features were recorded following standard ECC FAU methodologies. A
+photographic record, consisting of monochrome prints and colour transparencies, was maintained
+on selected individual features as well as general trench shots. Levels were taken of ground levels
+on and around each of the trenches as well as on individual features. The positions of the
+trenches were located using GPS.
+IFA standards and by-laws and ALGAO's Standards for Field Archaeology in the East of England
+(Gurney, 2003) were adhered to during the fieldwork, which was monitored by Ms V Clarke of ECC
+HEM on behalf of the local planning authority.
+5.0 FIELDWORK RESULTS (Figure 1)
+Five trenches were excavated to the top of the undisturbed natural geology across the area.
+Trenches 2, 3, 4 and 5 were all devoid of archaeological features. All of the trenches were 30m
+long and approximately 1.7m wide. Each trench is described briefly below with further information
+located in Appendix 1. Trench and feature locations are shown on Figure 1.
+3
+New Police Station, Smiths Farm, Great Dunmow
+Archaeological Evaluation Report
+Prepared for Essex Police
+4
+#
+#
+Great
+Dunmow
+Chelmsford
+ESSEX
+SITE
+Hoblongs industrial estate
+B184
+Chelm
+sford
+Road
+-
+course
+ofRom
+an
+Road
+SITE
+Powerline
+Trench
+1
+Trench 2
+Trench 3
+Trench4
+Trench 5
+[1]
+Mapping reproduced by permission of Ordnance Survey on behalf of
+the contoller of HMSO. Crown copyright. Licence no.LA10019602.
+Fig.1. Site location
+0 50m
+N
+ð
+ð
+ð
+ð
+ð
+ð
+ð
+ð
+ð
+ð
+TL 6359
+2083
+TL 6361
+2081
+TL 6361
+2079
+TL 6359
+2078
+TL 6353
+2076
+TL 6356
+2077
+TL 6353
+2081
+TL 6355
+2078
+TL 6354
+2081
+TL 6357
+2083
+New Police Station, Smiths Farm, Great Dunmow
+Archaeological Evaluation Report
+Prepared for Essex Police
+Trench 1
+Running approximately northwest to southeast along the western edge of the Chelmsford Road,
+Trench 1 was c.0.85m deep. Below the topsoil were two subsoil layers. The upper, a mid-grey
+silty sand, was approximately 0.15m thick and was probably deposited recently, possibly during the
+construction of the modern road or one of the surrounding industrial estates. The lower light brown
+subsoil was 0.5m thick.
+A single ditch [1] was identified at the northwest end of the trench (Fig.1). The ditch was
+approximately 0.85m wide and 0.42m deep and ran across the trench on a northeast-southwest
+alignment. Its single sandy silt pale yellow brown f contained two flint flakes, two burnt flints and
+seven pottery sherds. <Node id="9351"/>Even though there were no diagnostic pieces of pottery<Node id="9405"/>, it is probable that
+they are Late Bronze Age or Early Iron Age in date (identified by N. Lavender). A further sherd of
+pottery and five more flint flakes were recovered from the surface of the undisturbed natural
+geology along the rest of the trench.
+Trench 2
+Trench 2 ran approximately east-west from Chelmsford Road along the boundary to Hoblongs
+Industrial Estate. Below 0.15m of topsoil was a light brown silty sand subsoil 0.35m thick, which
+was itself above the undisturbed natural geology. <Node id="9904"/>No archaeological features or finds were
+identified in this trench<Node id="9970"/>.
+Trench 3
+Orientated approximately east-west this trench was 0.55m deep. The topsoil was 0.15m thick and
+overlay the light brown silty sand subsoil, which was 0.4m thick. Although no features were
+identified, three sherds of prehistoric pottery and a single flint flake were recovered from the top of
+the undisturbed natural geology.
+Trench 4
+Trench 4 was aligned north-south along the western edge of the development site. It was
+excavated to a depth of 0.5m through 0.2m of topsoil and 0.3m of light brown silty sandy subsoil.
+No archaeological features were identified, although a single flint flake was recovered from the
+surface of the undisturbed natural geology.
+5
+New Police Station, Smiths Farm, Great Dunmow
+Archaeological Evaluation Report
+Prepared for Essex Police
+Trench 5
+<Node id="10757"/>No archaeological features or finds were identified in this trench<Node id="10823"/>. It ran approximately east-west
+along the boundary to Hoblongs Industrial Estate. Below 0.3m of topsoil was a light brown silty
+sand subsoil 0.2m thick, which was above the undisturbed natural geology.
+6.0 FINDS AND ENVIRONMENTAL MATERIAL
+Small groups of finds were recovered from a total of four contexts, three of which represent
+unstratified finds from three of the excavated trenches. The finds were recorded by count and
+weight, in grams, by context. Full details can be found in Appendix 2. All of the finds are
+prehistoric, comprising flint flakes, burnt flints and flint-tempered pottery.
+Eleven sherds of pottery, weighing a total of 26g, were recovered, most of which came from f 2 of
+ditch 1. Most of the pottery comprises featureless body sherds in Fabric D (identified by N.
+Lavender), indicating a probable Late Bronze Age or Early Iron Age date.
+Nine flint flakes were recorded, most of which are likely to be working waste. In addition, two burnt
+flints came from the f of ditch 1.
+It is of interest that, although only small groups of finds were recovered, all of the material is likely
+to be prehistoric. Activity in the prehistoric period is recorded in the vicinity, although the nature
+and scale of the activity remains obscure.
+All of the finds should be retained, although further work on the assemblage is not warranted.
+7.0 CONCLUSIONS
+Although only one archaeological feature was identified on the site, the number of unstratified finds
+recovered from the top of the natural geology indicates that there is prehistoric activity, probably of
+Late Bronze Age or Early Iron Age date, in the vicinity. <Node id="12448"/>Although no focus for prehistoric activity
+has been identified in this area<Node id="12523"/>, a single unurned cremation (HER 19149) was excavated to the
+south of the site, prior to the construction of the A120. This is likely to be prehistoric in date and
+may be contemporary with the feature and finds identified on this site. Also, the route of
+Chelmsford Road is thought to have origins as a trackway in the prehistoric period, and it is
+therefore unsurprising that finds and features of this date have been recovered from Smiths Farm.
+<Node id="12971"/>The absence of features, deposits and even unstratified artefacts of Roman or medieval date
+indicates that this site lies beyond the limits of the settlement at Great Dunmow<Node id="13144"/> during these
+6
+New Police Station, Smiths Farm, Great Dunmow
+Archaeological Evaluation Report
+Prepared for Essex Police
+periods. <Node id="13274"/>There is no evidence for roadside ribbon-development or cemeteries this far south
+alongside the Chelmsford road.<Node id="13386"/> Indeed, recent excavations further north into Great Dunmow
+appear to demonstrate that settlement was more-or-less confined to the top of the spur until the
+post-medieval period. The Roman cremation cemetery at Haslers Lane is a clear indication of the
+settlement periphery at this time (Hickling 2003).
+The presence of a single prehistoric feature and <Node id="13739"/>the absence of later remains associated with
+either settlement at Great Dunmow or exploitation of its surrounding landscape<Node id="13862"/> suggests that there
+is little further archaeological implication for the proposed construction of the police station on this
+site.
+Acknowledgements
+This project was commissioned and funded by Essex Police. Especial thanks go to Pauline Dines
+of Essex Police and Julie Priess of Mantle Estates for their help throughout the project. The finds
+were processed by D. Smith, who also assisted the author during the fieldwork. The analysis of
+the finds was undertaken by J. Compton and the illustrations prepared by A. Lewsey. The project
+was managed by P. Allen and V. Clarke of ECC HEM monitored the fieldwork on behalf of the local
+planning authority.
+BIBLIOGRAPHY
+Gurney, D. 2003 Standards for Field Archaeology in the East of England East Anglian
+Archaeol. Occ. Pap. 14
+Havis, R. 2005 Archaeological Trenching and Excavation on a New Police Station at
+Smiths Farm, Great Dunmow Archaeological brief
+Hickling, S. 2003 Former Council Depot, Haslars Lane, Great Dunmow, Essex.
+Archaeological Excavation. Essex CC FAU report 1096
+Medlycott, M. 1998 Great Dunmow, Historic Towns Project Assessment Report ECC
+Planning
+Wickenden, N.P. 1988 Excavations at Great Dunmow, Essex, E. Anglian Archaeol. 41
+7
+New Police Station, Smiths Farm, Great Dunmow
+Archaeological Evaluation Report
+Prepared for Essex Police
+APPENDIX 1: FIELDWORK DATA
+All dimensions are given in metres.
+Context Feature Trench Category Details Period
+1 - 1 Ditch NE­SW aligned;1.7m long,0.85m wide,0.42m deep Prehistoric
+2 1 1 F F of 1; Pale yellow brown sandy silt
+3 - 1 unstrat Finds from top of natural geology
+4 - 4 unstrat Finds from top of natural geology
+5 - 3 unstrat Finds from top of natural geology
+Trench Contexts Length Breadth Depth Height
+1 [1]; (2); (3) 30 1.7 0.85 49.51mOD
+2 - 30 1.7 0.5 50.30mOD
+3 (5) 30 1.7 0.55 50.98mOD
+4 (4) 30 1.7 0.5 51.54mOD
+5 - 30 1.7 0.5 52.21mOD
+APPENDIX 2: FINDS AND ENVIRONMENTAL MATERIAL
+All weights given in grammes
+Context Feature Count Weight Description Date
+2 1 2 8 Flint flakes -
+2 22 Burnt flints -
+7 20 Pottery; body sherds, flint-tempered (one may be
+baked clay)
+Prehistoric
+3 u/s (Tr 1) 5 26 Flint flakes -
+1 2 Pottery; body sherd, flint-tempered Prehistoric
+4 u/s (Tr 4) 1 14 Flint flake -
+5 u/s (Tr 3) 1 4 Flint flake -
+3 4 Pottery; body sherd and crumbs, flint-tempered Prehistoric
+8
+New Police Station, Smiths Farm, Great Dunmow
+Archaeological Evaluation Report
+Prepared for Essex Police
+APPENDIX 3: ARCHIVE INDEX
+NEW POLICE STATION, SMITHS FARM, GREAT DUNMOW (GDSF 05)
+Index to the Archive
+1. Introduction
+1.1 Brief for Evaluation
+1.2 Specification for Evaluation
+2. Research Archive (Material generated after fieldwork)
+2.1 Evaluation Report
+2.2 Finds Report
+3. Site Archive
+3.1 Context Register
+3.2 Original Context Records 1 to 5
+3.3 Levels Sheet
+3.4 2 x Photographic Registers
+3.5 5 x Black and White Prints
+3.6 5 x Colour slides
+3.7 1 Plan and section sheet (A5)
+Not in Files:
+1 box of finds
+9
+New Police Station, Smiths Farm, Great Dunmow
+Archaeological Evaluation Report
+Prepared for Essex Police
+APPENDIX 4: EHER SUMMARY SHEET
+Site Name/Address:
+New police Station, Smiths Farm, Great Dunmow
+Parish:
+Great Dunmow
+District:
+Uttlesford
+NGR:
+TL 6367 2072 (centred)
+Site Code:
+GDSF 05
+Type of Work:
+Evaluation by Trial trenching
+Site Director/Group:
+Andrew Robertson
+ECC FAU
+Date of Work:
+25/08/2005 ­ 26/08/2005
+Size of Area Investigated:
+Development area: 6000m2
+Trenching: 5 trenches = 255m2
+Location of Finds/Curating Museum:
+Saffron Walden
+Funding Source:
+Essex Police
+Further Work Anticipated?
+No
+Related EHER Nos:
+HER 19149
+Final Report: EAH Summary
+Periods Represented: Prehistoric
+SUMMARY OF FIELDWORK RESULTS:
+An archaeological evaluation was carried out by ECC FAU, on behalf of Essex Police, on the
+site of a proposed new police station at the southern end of Great Dunmow, Essex. The site
+was formerly rough pasture and known as Smith Farm. Immediately to the east of the site
+ran Chelmsford road, which is thought to be the line of a Roman road.
+Five 30m trenches were excavated within the footprint of the proposed building and carpark.
+Only one archaeological feature was revealed, a northeast­southwest aligned ditch
+containing prehistoric pottery, burnt flints and flint flakes. The pottery is undiagnostic but
+probably dates to the Late Bronze Age or Early Iron Age. No other archaeological features
+were identified although a number of prehistoric pottery sherds and flint flakes were
+discovered on the surface of the natural geology.
+<Node id="18345"/>Although the results of the evaluation do not suggest intensive landscape use during the Late
+Bronze/ Early Iron Ages<Node id="18462"/> it is clear from this, and other nearby discoveries, that a focus for the
+low level activity seen may well lie in the general vicinity. <Node id="18599"/>The absence of Roman or Medieval
+remains indicates that this site was well outside the settlements of these periods<Node id="18714"/>.
+Previous Summaries/Reports:
+None
+Author of Summary:
+Andrew Robertson
+Date of Summary:
+September 2005
+10
+<Node id="18820"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="key">
+<Annotation Id="1" Type="Negation" StartNode="2539" EndNode="2656">
+</Annotation>
+<Annotation Id="2" Type="Negation" StartNode="2794" EndNode="2909">
+</Annotation>
+<Annotation Id="3" Type="Negation" StartNode="2911" EndNode="3041">
+</Annotation>
+<Annotation Id="4" Type="Negation" StartNode="9351" EndNode="9405">
+</Annotation>
+<Annotation Id="5" Type="Negation" StartNode="9904" EndNode="9970">
+</Annotation>
+<Annotation Id="6" Type="Negation" StartNode="10757" EndNode="10823">
+</Annotation>
+<Annotation Id="7" Type="Negation" StartNode="12448" EndNode="12523">
+</Annotation>
+<Annotation Id="8" Type="Negation" StartNode="12971" EndNode="13144">
+</Annotation>
+<Annotation Id="9" Type="Negation" StartNode="13274" EndNode="13386">
+</Annotation>
+<Annotation Id="10" Type="Negation" StartNode="13739" EndNode="13862">
+</Annotation>
+<Annotation Id="11" Type="Negation" StartNode="18345" EndNode="18462">
+</Annotation>
+<Annotation Id="12" Type="Negation" StartNode="18599" EndNode="18714">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="18820">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
